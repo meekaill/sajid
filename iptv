@@ -11,3 +11,19 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1563465841~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=81be316b6bae6ff6c35f39d5d46c1d97500a4aae550367efc04049f018d3c379
 #EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
 https://www.facebook.com/SanguTelevision/videos/338471303750885/
+#EXTINF:-1 group-title="SRI LANKA" tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="Undefined",Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+#EXTINF:-1 group-title="SRI LANKA" tvg-logo="http://theboss.in/wp-content/uploads/2016/06/logo-1.png" group-title="Undefined",Boss TV
+http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
+#EXTINF:-1 group-title="SRI LANKA" tvg-logo="http://www.asiaexhibition.lk/images/partners/partner%20logo%20hiru.jpg" group-title="Undefined",Hiru TV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 group-title="SRI LANKA" tvg-logo="http://upload.wikimedia.org/wikipedia/si/8/88/ITN_TV_Sri_Lanka.png" group-title="Undefined",ITN
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1 group-title="SRI LANKA" tvg-logo="" group-title="Entertainment",Rupavahini TV
+http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
+#EXTINF:-1 group-title="SRI LANKA" tvg-logo="https://pbs.twimg.com/profile_images/706800739776143360/P38PX84d.jpg" group-title="Undefined",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 group-title="SRI LANKA"tvg-logo="" group-title="Entertainment",Vasantham TV
+http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:-1 group-title="SRI LANKA" tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="Undefined",Vendharm TV
+http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8
