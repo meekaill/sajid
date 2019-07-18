@@ -8,8 +8,7 @@ http://54.179.182.237:1935/live/livestream/chunklist_w1254241742.m3u8
 #EXTINF:-4 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png",VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-5 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",Raajje TV HD
-https://yuppsinmsl.akamaized.net/hls/live/2003784/citihits/citihits_1800/57twoi65/00000000/media_469.ts?hdntl=exp=1563565726~acl=/*~data=hdntl~hmac=f18d053e091fccd114e4496ebe0fb28404854dad4255c6c4a8859f9c4599237f
-
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8
 #EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
 http://viastreaming.net:1935/channel13/livestream/playlist.m3u8
 #EXTINF:-1 group-title="SRI LANKA" tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="SRILANKA",Aarya TV
