@@ -8,7 +8,7 @@ http://54.179.182.237:1935/live/livestream/chunklist_w1254241742.m3u8
 #EXTINF:-4 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png",VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-5 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",Raajje TV HD
-https://msllive.yuppcdn.net/live/yuppsinmsl/hls/live/2003784/channelc/playlist/master.m3u8?hdnea=st=1563478966~exp=1563479566~acl=!*/2003784/channelc/*!/payload/yuppTVCom_5_-1_d80b7ce2cdf04453_MV_209.212.223.161/*~hmac=428909ef36a46bfce2a41e87063180c4bafed694c43bdbf6a33f28389e03e345
+https://yuppsinmsl.akamaized.net/hls/live/2003784/citihits/citihits_1800/57twoi65/00000000/media_469.ts?hdntl=exp=1563565726~acl=/*~data=hdntl~hmac=f18d053e091fccd114e4496ebe0fb28404854dad4255c6c4a8859f9c4599237f
 
 #EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
 http://viastreaming.net:1935/channel13/livestream/playlist.m3u8
