@@ -8,17 +8,7 @@ http://54.179.182.237:1935/live/livestream/chunklist_w1254241742.m3u8
 #EXTINF:-4 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png",VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-5 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",Raajje TV HD
-#EXT-X-TARGETDURATION:6
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:260571587
-#EXTINF:6.000,
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/segment260571587_150_av-b.ts?sd=6&rebase=on&hdntl=exp=1563515910~acl=/i/dclive_1@396998*~data=hdntl~hmac=998ccd0c28eb4bc383128b1b2629c807061f3bee0b7aff1300bc18ce3fe01863
-#EXTINF:6.000,
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/segment260571588_150_av-b.ts?sd=6&rebase=on&hdntl=exp=1563515910~acl=/i/dclive_1@396998*~data=hdntl~hmac=998ccd0c28eb4bc383128b1b2629c807061f3bee0b7aff1300bc18ce3fe01863
-#EXTINF:6.000,
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/segment260571589_150_av-b.ts?sd=6&rebase=on&hdntl=exp=1563515910~acl=/i/dclive_1@396998*~data=hdntl~hmac=998ccd0c28eb4bc383128b1b2629c807061f3bee0b7aff1300bc18ce3fe01863
-
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1563517149~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=8c12bdeebf26c48075a48ab8c873b8dd1e83c1b954d3bee4208687c3c35c435d
 #EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
 https://www.facebook.com/SanguTelevision/videos/338471303750885/
 #EXTINF:-1 group-title="SRI LANKA" tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="SRILANKA",Aarya TV
