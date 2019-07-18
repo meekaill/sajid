@@ -8,10 +8,7 @@ http://54.179.182.237:1935/live/livestream/chunklist_w1254241742.m3u8
 #EXTINF:-4 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png",VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-5 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",Raajje TV HD
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=496000,RESOLUTION=384x216,CODECS="avc1.66.30, mp4a.40.34"
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1563564668~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=fed32eb3210d4f3c62ff2ce4a6769cc4e532e57c3fe01ebf4f752b481919ad80
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=496000,RESOLUTION=384x216,CODECS="avc1.66.30, mp4a.40.34"
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-b.m3u8?sd=6&rebase=on&hdntl=exp=1563564668~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=fed32eb3210d4f3c62ff2ce4a6769cc4e532e57c3fe01ebf4f752b481919ad80
 
 #EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
 http://viastreaming.net:1935/channel13/livestream/playlist.m3u8
