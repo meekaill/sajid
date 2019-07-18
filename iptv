@@ -8,32 +8,8 @@ http://54.179.182.237:1935/live/livestream/chunklist_w1254241742.m3u8
 #EXTINF:-4 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png",VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-5 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",Raajje TV HD
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset=utf-8 />
-<title>Video</title>
-
-  <link href="http://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
-  <script src="http://vjs.zencdn.net/4.12/video.js"></script>
- <script src="https://github.com/videojs/videojs-contrib-media-sources/releases/download/v0.1.0/videojs-media-sources.js"></script>
-  <script src="https://github.com/videojs/videojs-contrib-hls/releases/download/v0.11.2/videojs.hls.min.js"></script>
-
-</head>
-<body>
-  <h1>Video</h1>
-
-  <video id="my_video_1" class="video-js vjs-default-skin" controls preload="auto" width="640" height="268" 
-  data-setup='{}'>
-    <source src="https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8?hdnea=st=1563431105~exp=1563431225~acl=/i/dclive_1@396998*~hmac=35aacbef2b23ccf72da491eb5977f07787237cbbe92dcda7bacd01ac13fe4175" type='video/mp4'>
-  </video>
-
-  <script>
-  </script>
-
-</body>
-</html>
-#EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8?hdnea=st=1563431105~exp=1563431225~acl=/i/dclive_1@396998*~hmac=35aacbef2b23ccf72da491eb5977f07787237cbbe92dcda7bacd01ac13fe4175" type='video/mp4'>
+ #EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
 https://www.facebook.com/SanguTelevision/videos/338471303750885/
 #EXTINF:-1 group-title="SRI LANKA" tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="SRILANKA",Aarya TV
 http://150.242.21.2/aaryaa.m3u8
