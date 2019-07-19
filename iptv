@@ -36,3 +36,5 @@ http://185.149.89.37:7071/sri2019/sirasatv/chunks.m3u8?nimblesessionid=309353&wm
 http://185.149.89.37:7071/sri2019/shaktitv/chunks.m3u8?nimblesessionid=310118&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE5IDg6MTM6MjggUE0maGFzaF92YWx1ZT1OKzdMU2I4OHJsWjNlbFd6bXhjRkVBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",SIYATHATV
 http://185.149.89.37:7071/sri2019/siyathatv/chunks.m3u8?nimblesessionid=310480&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE5IDg6MjM6NTEgUE0maGFzaF92YWx1ZT12WW92dnZQZDNsSGl3UXcxVmxTbkZ3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",DERANATV
+http://185.149.89.37:7071/sri2019/deranatv/chunks.m3u8?nimblesessionid=310807&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE5IDg6MzE6MzYgUE0maGFzaF92YWx1ZT1BbjlvUVB1N1BCbno2UW05Q09Fc3BnPT0mdmFsaWRtaW51dGVzPTI=
