@@ -4,7 +4,7 @@ http://54.169.75.117:1935/live/livestream/chunklist_w161732247.m3u8
 #EXTINF:-2 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
 #EXTINF:-3 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/196_Yes_TV-01.png",YES TV HD
-http://54.179.182.237:1935/live/livestream/chunklist_w1254241742.m3u8
+http://ec2-54-179-182-237.ap-southeast-1.compute.amazonaws.com/live/smil:yesLive.smil/playlist.m3u8
 #EXTINF:-4 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png",VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-5 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",Raajje TV HD
