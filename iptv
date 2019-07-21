@@ -40,3 +40,7 @@ http://185.149.89.37:7071/sri2019/sirasatv/playlist.m3u8
 http://cdncities.com/itndvr2/itndvr2/media_w1720545094_82958.ts
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",DERENA TV
 http://185.149.89.37:7071/sri2019/deranatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",SONY TEN 1
+http://139.59.68.238/stm-v3/api/def2.php?id=289&quality=2&type=0
