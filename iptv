@@ -42,5 +42,7 @@ http://cdncities.com/itndvr2/itndvr2/media_w1720545094_82958.ts
 http://185.149.89.37:7071/sri2019/deranatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 ATV H
+#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 2 
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/05.m3u8
