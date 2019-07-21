@@ -38,3 +38,5 @@ http://185.149.89.37:7071/sri2019/shaktitv/chunks.m3u8?nimblesessionid=383328&wm
 http://185.149.89.37:7071/sri2019/sirasatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTA6MTcgQU0maGFzaF92YWx1ZT0vd2YyUWJuazZwRlV6N2Fua2xxeGh3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",ITN
 http://cdncities.com/itndvr2/itndvr2/media_w1720545094_82958.ts?nimblesessionid=107276525
+#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",DERENA TV
+http://185.149.89.37:7071/sri2019/deranatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTg6MjQgQU0maGFzaF92YWx1ZT1ubG5pVGQwejdrVFF1ZmhxbzRpSTZnPT0mdmFsaWRtaW51dGVzPTI=
