@@ -30,8 +30,8 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="ENGlISH NEWS" tvg-logo="logo N/A",BBC NEWS
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",RUPANVAHINI
-http://dammikartmp.tulix.tv:1935/slrc1/slrc1/playlist.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",SIYATHATV
+http://185.149.89.37:7071/sri2019/siyathatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTU6NTkgQU0maGFzaF92YWx1ZT1nUHBLUDJJYmtTVFZHbU9oL205eWRBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",SHAKTHITV
 http://185.149.89.37:7071/sri2019/shaktitv/chunks.m3u8?nimblesessionid=383328&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTQ6NDAgQU0maGFzaF92YWx1ZT0wVG1ZSDQyNTlzdnhvWEx4Wm4xcE9nPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",SIRASATV
