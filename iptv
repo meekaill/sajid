@@ -31,12 +31,12 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",SIYATHATV
-http://185.149.89.37:7071/sri2019/siyathatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTU6NTkgQU0maGFzaF92YWx1ZT1nUHBLUDJJYmtTVFZHbU9oL205eWRBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.149.89.37:7071/sri2019/siyathatv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",SHAKTHITV
-http://185.149.89.37:7071/sri2019/shaktitv/chunks.m3u8?nimblesessionid=383328&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTQ6NDAgQU0maGFzaF92YWx1ZT0wVG1ZSDQyNTlzdnhvWEx4Wm4xcE9nPT0mdmFsaWRtaW51dGVzPTI=
+http://185.149.89.37:7071/sri2019/shaktitv/chunks.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",SIRASATV
-http://185.149.89.37:7071/sri2019/sirasatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTA6MTcgQU0maGFzaF92YWx1ZT0vd2YyUWJuazZwRlV6N2Fua2xxeGh3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.149.89.37:7071/sri2019/sirasatv/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",ITN
 http://cdncities.com/itndvr2/itndvr2/media_w1720545094_82958.ts?nimblesessionid=107276525
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",DERENA TV
-http://185.149.89.37:7071/sri2019/deranatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDU6NTg6MjQgQU0maGFzaF92YWx1ZT1ubG5pVGQwejdrVFF1ZmhxbzRpSTZnPT0mdmFsaWRtaW51dGVzPTI=
+http://185.149.89.37:7071/sri2019/deranatv/playlist.m3u8
