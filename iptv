@@ -8,7 +8,7 @@ http://ec2-54-179-182-237.ap-southeast-1.compute.amazonaws.com/live/smil:yesLive
 #EXTINF:-4 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/98_VTV-01.png",VTV HD
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-5 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",Raajje TV HD
-https://iframe.dacast.com/b/61151/c/82829
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1563791271~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=4e999571c2ae8be478f251d231f0c3f4b8263f28acbfd919ad7c48b2bad976ec
 #EXTINF:-6 group-title="MALDIVES" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/139_Channel_13-01.png",Channel 13 HD
 http://viastreaming.net:1935/channel13/livestream/playlist.m3u8
 
