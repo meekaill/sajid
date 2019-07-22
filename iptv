@@ -41,3 +41,5 @@ http://185.149.89.37:7071/sri2019/swarnavahini/chunks.m3u8?nimblesessionid=45400
 http://185.149.89.37:7071/sri2019/citihits/chunks.m3u8?nimblesessionid=454147&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjQwOjMwIFBNJmhhc2hfdmFsdWU9QWNSZ25FZjVMb3ovQmVtQ0tEdjlvdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-4 group-title="SRILANKA" tvg-logo="",HIRU TV
 http://185.149.89.37:7071/sri2019/hirutv/chunks.m3u8?nimblesessionid=454213&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjQxOjU3IFBNJmhhc2hfdmFsdWU9RTdvaUhsT3d4VUxGRGlyQk5ZbG1qdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-4 group-title="SRILANKA" tvg-logo="",SIRASATV
+http://185.149.89.37:7071/sri2019/sirasatv/chunks.m3u8?nimblesessionid=454318&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjQ0OjA3IFBNJmhhc2hfdmFsdWU9YW4vblc3b01Ka0FCSkdERjdFRHVpQT09JnZhbGlkbWludXRlcz0y
