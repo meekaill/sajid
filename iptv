@@ -11,3 +11,5 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 
 #EXTINF:-4 group-title="INDIAN MUSIC" tvg-logo="",B4U MUSIC
 http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?nimblesessionid=254608120&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDk6MDU6NTIgQU0maGFzaF92YWx1ZT1oVVhndkNlZDZyeE93eHV2Z0RhVnNRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-4 group-title="INDIAN MUSIC" tvg-logo="",MUSIC INDIA
+http://212.8.253.141:7071/ind2019/musicindia/chunks.m3u8?nimblesessionid=254609034&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDk6MDk6MTcgQU0maGFzaF92YWx1ZT1SQnFUUmcyZzlWcFI4Zm5nVlNGU2pBPT0mdmFsaWRtaW51dGVzPTI=
