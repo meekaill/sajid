@@ -8,4 +8,4 @@ http://54.179.182.237:1935/live/livestream/chunklist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",RAAJJE TV
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8?hdnea=st=1563772746~exp=1563772866~acl=/i/dclive_1@396998*~hmac=15d6447b1878043bbdfec5b3e56612c816c5362cc2af9110e81df25ddd17b551
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8?
