@@ -10,4 +10,4 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",RAAJJE TV
 
 #EXTINF:-4 group-title="INDIAN MUSIC" tvg-logo="",B4U MUSIC
-http://212.8.253.141:7071/ind2019/b4umusic/l_284050_4063962_710.ts?nimblesessionid=254599056&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDg6NDA6MjUgQU0maGFzaF92YWx1ZT12ZklRMHVzc1prOHYxakdTT1BFN0dnPT0mdmFsaWRtaW51dGVzPTI=
+http://212.8.253.141:7071/ind2019/b4umusic/l_284050_4063962_710.ts?
