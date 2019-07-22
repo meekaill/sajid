@@ -25,3 +25,13 @@ http://185.149.89.37:7071/sri2019/shaktitv/chunks.m3u8?nimblesessionid=451478&wm
 http://185.149.89.37:7071/sri2019/siyathatv/chunks.m3u8?nimblesessionid=452451&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjU5OjI5IEFNJmhhc2hfdmFsdWU9Y1pzYWJyRXZKaGUycGxNbU5wMkJ0dz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-4 group-title="SRILANKA" tvg-logo="",DERAANATV
 http://185.149.89.37:7071/sri2019/deranatv/chunks.m3u8?nimblesessionid=452556&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjAyOjA4IFBNJmhhc2hfdmFsdWU9MFhYMG53UUVpeDJ1cXhPYUtaWEpLQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-4 group-title="SRILANKA" tvg-logo="",RUPANVAHINI
+http://185.149.89.37:7071/sri2019/rupanvahini/chunks.m3u8?nimblesessionid=452940&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjA5OjM0IFBNJmhhc2hfdmFsdWU9ajQvYjZLWmRFR3VuVmpVbDNqR1hQUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-4 group-title="SRILANKA" tvg-logo="",CHANNEL EYE
+http://185.149.89.37:7071/sri2019/channeleye/chunks.m3u8?nimblesessionid=452987&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjExOjE3IFBNJmhhc2hfdmFsdWU9aEh2QVM3ODIyUlNTSzlDQXF4N0swUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-4 group-title="SRILANKA" tvg-logo="",NETHRA
+http://185.149.89.37:7071/sri2019/nethra/chunks.m3u8?nimblesessionid=453044&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjEzOjAwIFBNJmhhc2hfdmFsdWU9Uy9sbnVrR2w0SzVrbDI0MUg4NlVqZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-4 group-title="SRILANKA" tvg-logo="",ITNTV
+http://185.149.89.37:7071/sri2019/itntv/chunks.m3u8?nimblesessionid=453091&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjE0OjM3IFBNJmhhc2hfdmFsdWU9eVRqdTlnbFl2UW12ZlVvSzVoSEJFdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-4 group-title="SRILANKA" tvg-logo="",CHANNEL C
+http://185.149.89.37:7071/sri2019/channelc/chunks.m3u8?nimblesessionid=453455&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDEyOjI1OjEzIFBNJmhhc2hfdmFsdWU9NUo3S2dRTHc0MkgwU05YS3gwY3JvQT09JnZhbGlkbWludXRlcz0y
