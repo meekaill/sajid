@@ -11,4 +11,4 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8?hdnea=st=1563772746~exp=1563772866~acl=%2F*~hmac=15d6447b1878043bbdfec5b3e56612c816c5362cc2af9110e81df25ddd17b551
 
 #EXTINF:-4 group-title="INDIAN MUSIC" tvg-logo="",B4U MUSIC
-http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?nimblesessionid=254558420&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDY6MDE6MzEgQU0maGFzaF92YWx1ZT1HbmlSYTF4bFRGT1JsOGIxbjZYTUpRPT0mdmFsaWRtaW51dGVzPTI=
+http://212.8.253.141:7071/ind2019/b4umusic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDg6MzQ6MzUgQU0maGFzaF92YWx1ZT1BY3lHUit3eFFxTmlDOGF2SEpHeFNRPT0mdmFsaWRtaW51dGVzPTI=
