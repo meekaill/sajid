@@ -17,3 +17,7 @@ http://212.8.253.141:7071/ind2019/musicindia/chunks.m3u8?nimblesessionid=2546090
 http://212.8.253.141:7071/ind2019/zoomtv/chunks.m3u8?nimblesessionid=254654355&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjA4OjQwIEFNJmhhc2hfdmFsdWU9dlM0VkQ4TTVwbWk5REQwZ21WMkdXdz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-4 group-title="INDIAN MUSIC" tvg-logo="",9XJALWA
 http://212.8.253.141:7071/ind2019/9xjalwa/chunks.m3u8?nimblesessionid=254657402&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjE2OjU2IEFNJmhhc2hfdmFsdWU9Qmwrc0QxYTlCUWR0MU9aRU1wQzFpUT09JnZhbGlkbWludXRlcz0y
+
+
+#EXTINF:-4 group-title="Srilanka" tvg-logo="",SIRASATV
+http://185.149.89.37:7071/sri2019/sirasatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDExOjIyOjA3IEFNJmhhc2hfdmFsdWU9cjRSbk54aFVMdk1KWktUNzMzM0RpQT09JnZhbGlkbWludXRlcz0y
