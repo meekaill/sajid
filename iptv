@@ -7,7 +7,7 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
-#EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/103_Raajje_TV-01.png",RAAJJE TV
+
 
 #EXTINF:-4 group-title="INDIAN MUSIC" tvg-logo="",B4U MUSIC
 http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?nimblesessionid=254608120&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDE5IDk6MDU6NTIgQU0maGFzaF92YWx1ZT1oVVhndkNlZDZyeE93eHV2Z0RhVnNRPT0mdmFsaWRtaW51dGVzPTI=
