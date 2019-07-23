@@ -10,6 +10,9 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 #EXTINF:-1 tvg-id="ZOOM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",ZOOM JTV FHD
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/ZOOM/ZOOM_600.m3u8?jct=1CvpjjA3GYrnz2e2j-XJXA&pxe=1563929280&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 
+#EXTINF:-2 group-title="Maldives" tvg-logo="",RAAJJE TV
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8?hdnea=st=1563890825~exp=1563890945~acl=/i/dclive_1@396998*~hmac=9d83f68169004616692a630b59f8353e8ed3270f10c6f6d93dfd75f264b5e98e
+
 http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Zing/Zing_600.m3u8?jct=1CvpjjA3GYrnz2e2j-XJXA&pxe=1563929280&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_554/PORTRAIT/9d5f72f2-f585-4871-9314-467cf8d230d4.png",B4U Music ATV M
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226055/index.m3u8
