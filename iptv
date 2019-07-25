@@ -7,3 +7,215 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
+
+
+#EXTINF:0,Sky Sports Main Event UHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46863
+#EXTINF:0,Sky Sports Main Event FHD
+http://satsni.club:34656/tester123/tester123/46240
+#EXTINF:0,Sky Sports Main Event HD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46241
+#EXTINF:0,Sky Sports Main Event
+http://satsni.club:34656/tester123/tester123/46242
+#EXTINF:0,Sky Sports Action UHD
+http://satsni.club:34656/tester123/tester123/46869
+#EXTINF:0,Sky Sports Action FHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46258
+#EXTINF:0,Sky Sports Action HD
+http://satsni.club:34656/tester123/tester123/46259
+#EXTINF:0,Sky Sports Action
+http://satsni.club:34656/tester123/tester123/46260
+#EXTINF:0,Sky Sports Premier League UHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46860
+#EXTINF:0,Sky Sports Premier League FHD
+http://satsni.club:34656/tester123/tester123/46231
+#EXTINF:0,Sky Sports Premier League HD
+http://satsni.club:34656/tester123/tester123/46232
+#EXTINF:0,Sky Sports Premier League_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46233
+#EXTINF:0,Sky Sports Arena UHD
+http://satsni.club:34656/tester123/tester123/46868
+#EXTINF:0,Sky Sports Arena FHD
+http://satsni.club:34656/tester123/tester123/46255
+#EXTINF:0,Sky Sports Arena HD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46256
+#EXTINF:0,Sky Sports Arena
+http://satsni.club:34656/tester123/tester123/46257
+#EXTINF:0,Sky Sports Cricket UHD
+http://satsni.club:34656/tester123/tester123/46867
+#EXTINF:0,Sky Sports Cricket FHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46252
+#EXTINF:0,Sky Sports Cricket HD
+http://satsni.club:34656/tester123/tester123/46253
+#EXTINF:0,Sky Sports Cricket
+http://satsni.club:34656/tester123/tester123/46254
+#EXTINF:0,Sky Sports Football UHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46865
+#EXTINF:0,Sky Sports Football FHD
+http://satsni.club:34656/tester123/tester123/46246
+#EXTINF:0,Sky Sports Football HD
+http://satsni.club:34656/tester123/tester123/46247
+#EXTINF:0,Sky Sports Football
+http://satsni.club:34656/tester123/tester123/46248
+#EXTINF:0,Sky Sports Golf UHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46864
+#EXTINF:0,Sky Sports Golf FHD
+http://satsni.club:34656/tester123/tester123/46243
+#EXTINF:0,Sky Sports Golf HD
+http://satsni.club:34656/tester123/tester123/46244
+#EXTINF:0,Sky Sports Golf
+http://satsni.club:34656/tester123/tester123/46245
+#EXTINF:0,Sky Sports News UHD
+http://satsni.club:34656/tester123/tester123/46861
+#EXTINF:0,Sky Sports News FHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46234
+#EXTINF:0,Sky Sports News HD
+http://satsni.club:34656/tester123/tester123/46235
+#EXTINF:0,Sky Sports News
+http://satsni.club:34656/tester123/tester123/46236
+#EXTINF:0,Sky Sports Mix UHD
+http://satsni.club:34656/tester123/tester123/46862
+#EXTINF:0,Sky Sports Mix FHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46237
+#EXTINF:0,Sky Sports Mix HD
+http://satsni.club:34656/tester123/tester123/46238
+#EXTINF:0,Sky Sports Mix_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46239
+#EXTINF:0,Sky Sports F1 UHD
+http://satsni.club:34656/tester123/tester123/46866
+#EXTINF:0,Sky Sports F1 FHD
+http://satsni.club:34656/tester123/tester123/46249
+#EXTINF:0,Sky Sports F1 HD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46250
+#EXTINF:0,Sky Sports F1
+http://satsni.club:34656/tester123/tester123/46251
+#EXTINF:0,Sky Sports Red But 1
+http://satsni.club:34656/tester123/tester123/47335
+#EXTINF:0,Sky Sports Red But 2_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/47334
+#EXTINF:0,Sky Sports Red But 3
+http://satsni.club:34656/tester123/tester123/47333
+#EXTINF:0,Sky Sports Red But 4
+http://satsni.club:34656/tester123/tester123/47332
+#EXTINF:0,Sky Sports Red But 5
+http://satsni.club:34656/tester123/tester123/47331
+#EXTINF:0,Sky Sports Red But 6_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/47330
+#EXTINF:0,Sky Sports Red But 7
+http://satsni.club:34656/tester123/tester123/47329
+#EXTINF:0,Sky Sports Red But 8
+http://satsni.club:34656/tester123/tester123/47328
+#EXTINF:0,Sky Sports Red But 9_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/47327
+#EXTINF:0,VM Sport HD
+http://satsni.club:34656/tester123/tester123/47326
+#EXTINF:0,VM Sport Extra1 HD
+http://satsni.club:34656/tester123/tester123/47325
+#EXTINF:0,VM Sport Extra2 HD
+http://satsni.club:34656/tester123/tester123/47324
+#EXTINF:0,VM Sport Extra3 HD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/47323
+#EXTINF:0,VM Sport Extra4 HD
+http://satsni.club:34656/tester123/tester123/47322
+#EXTINF:0,VM Sport Extra5 HD
+http://satsni.club:34656/tester123/tester123/47321
+#EXTINF:0,VM Sport Extra6 HD
+http://satsni.club:34656/tester123/tester123/47320
+#EXTINF:0,BT Sports 1 FHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46227
+#EXTINF:0,BT Sports 1 HD
+http://satsni.club:34656/tester123/tester123/46228
+#EXTINF:0,BT Sports 1
+http://satsni.club:34656/tester123/tester123/46229
+#EXTINF:0,BT Sports 2 FHD
+http://satsni.club:34656/tester123/tester123/46224
+#EXTINF:0,BT Sports 2 HD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46225
+#EXTINF:0,BT Sports 2
+http://satsni.club:34656/tester123/tester123/46226
+#EXTINF:0,BT Sports 3 FHD
+http://satsni.club:34656/tester123/tester123/46221
+#EXTINF:0,BT Sports 3 HD
+http://satsni.club:34656/tester123/tester123/46222
+#EXTINF:0,BT Sports 3_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46223
+#EXTINF:0,BT Sports Espn FHD
+http://satsni.club:34656/tester123/tester123/46218
+#EXTINF:0,BT Sports Espn HD
+http://satsni.club:34656/tester123/tester123/46219
+#EXTINF:0,BT Sports Espn
+http://satsni.club:34656/tester123/tester123/46220
+#EXTINF:0,BT Sport Extra 1
+http://satsni.club:34656/tester123/tester123/46217
+#EXTINF:0,BT Sport Extra 2_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46216
+#EXTINF:0,BT Sport Extra 3
+http://satsni.club:34656/tester123/tester123/46215
+#EXTINF:0,BT Sport Extra 4
+http://satsni.club:34656/tester123/tester123/46214
+#EXTINF:0,BT Sport Extra 5
+http://satsni.club:34656/tester123/tester123/46213
+#EXTINF:0,BT Sport Extra 6_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46212
+#EXTINF:0,BT Sport Extra 7
+http://satsni.club:34656/tester123/tester123/46211
+#EXTINF:0,BoxNation
+http://satsni.club:34656/tester123/tester123/46209
+#EXTINF:0,BoxNation HD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46208
+#EXTINF:0,Chelsea TV
+http://satsni.club:34656/tester123/tester123/46196
+#EXTINF:0,eir Sport 1
+http://satsni.club:34656/tester123/tester123/46207
+#EXTINF:0,eir Sport 1 HD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46206
+#EXTINF:0,eir Sport 2
+http://satsni.club:34656/tester123/tester123/46205
+#EXTINF:0,eir Sport 2 HD
+http://satsni.club:34656/tester123/tester123/46204
+#EXTINF:0,Eurosport 1
+http://satsni.club:34656/tester123/tester123/46203
+#EXTINF:0,Eurosport 1 HD
+http://satsni.club:34656/tester123/tester123/46202
+#EXTINF:0,Eurosport 1 FHD_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/58390
+#EXTINF:0,Eurosport 2
+http://satsni.club:34656/tester123/tester123/46201
+#EXTINF:0,Eurosport 2 HD
+http://satsni.club:34656/tester123/tester123/46200
+#EXTINF:0,Eurosport 2 FHD
+http://satsni.club:34656/tester123/tester123/58391
+#EXTINF:0,FreeSports
+http://satsni.club:34656/tester123/tester123/46199
+#EXTINF:0,Front Runner TV_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46198
+#EXTINF:0,GINXeSports TV
+http://satsni.club:34656/tester123/tester123/46197
+#EXTINF:0,LFCTV
+http://satsni.club:34656/tester123/tester123/46195
+#EXTINF:0,MUTV
+http://satsni.club:34656/tester123/tester123/46194
+#EXTINF:0,Premier Sports 1_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/46193
+#EXTINF:0,Premier Sports 2
+http://satsni.club:34656/tester123/tester123/46192
+#EXTINF:0,World Poker Tour TV HD
+http://satsni.club:34656/tester123/tester123/57541
+#EXTINF:0,PDC Darts Screen 1 (Events Only)_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/57543
+#EXTINF:0,PDC Darts Screen 2 (Events Only)
+http://satsni.club:34656/tester123/tester123/57542
+#EXTINF:0,FLOW SPORTS 1
+http://satsni.club:34656/tester123/tester123/58394
+#EXTINF:0,FLOW SPORTS 2
+http://satsni.club:34656/tester123/tester123/58393
+#EXTINF:0,FLOW SPORTS PREMIER
+http://satsni.club:34656/tester123/tester123/58392
+#EXTINF:0,European Tour | Golf TV (Events Only)_By : https://tv.tousecurity.com
+http://satsni.club:34656/tester123/tester123/57536
+#EXTINF:0,Ladies European Tour | Golf TV (Events Only)
+http://satsni.club:34656/tester123/tester123/57535
+#EXTINF:0,PGA Tour | Golf TV (Events Only)
+http://satsni.club:34656/tester123/tester123/57539
+#EXTINF:0,PGA Tour Championships | Golf TV (Events Only)
+http://satsni.club:34656/tester123/tester123/57537
