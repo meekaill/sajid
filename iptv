@@ -21,7 +21,154 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="India",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ET NOW
-http://d1hya96e2cm7qi.cloudfront.net/Live/amlst:sweetbcha1novD97L360P/media-u1eqjjn1j_b500000_266.ts
+
+
+
+
+
+#EXTINF:-1,amc-hu
+http://185.214.192.19:5000/play/1923
+#EXTINF:-1,animal-planet
+http://185.214.192.19:5000/play/2170
+#EXTINF:-1,atv
+http://185.214.192.19:5000/play/1930
+#EXTINF:-1,ct-sport
+http://185.214.192.19:5000/play/2215
+#EXTINF:-1,ct24
+http://185.214.192.19:5000/play/2235
+#EXTINF:-1,doma
+http://185.214.192.19:5000/play/2055
+#EXTINF:-1,duna
+http://185.214.192.19:5000/play/2236
+#EXTINF:-1,duna-world
+http://185.214.192.19:5000/play/1622
+#EXTINF:-1,dvojka
+http://185.214.192.19:5000/play/2149
+#EXTINF:-1,eurosport-1
+http://185.214.192.19:5000/play/1634
+#EXTINF:-1,eurosport-2
+http://185.214.192.19:5000/play/1638
+#EXTINF:-1,hirtv
+http://185.214.192.19:5000/play/1925
+#EXTINF:-1,history
+http://185.214.192.19:5000/play/2475
+#EXTINF:-1,jednotka
+http://185.214.192.19:5000/play/2214
+#EXTINF:-1,jim-jam
+http://185.214.192.19:5000/play/2476
+#EXTINF:-1,joj
+http://185.214.192.19:5000/play/1608
+#EXTINF:-1,joj-cinema
+http://185.214.192.19:5000/play/2142
+#EXTINF:-1,joj-cinema-1
+http://185.214.192.19:5000/play/2478
+#EXTINF:-1,joj-plus
+http://185.214.192.19:5000/play/1609
+#EXTINF:-1,m1
+http://185.214.192.19:5000/play/2060
+#EXTINF:-1,m2
+http://185.214.192.19:5000/play/1927
+#EXTINF:-1,m4-hu
+http://185.214.192.19:5000/play/2238
+#EXTINF:-1,markiza
+http://185.214.192.19:5000/play/1294
+#EXTINF:-1,ngc
+http://185.214.192.19:5000/play/1727
+#EXTINF:-1,prima-plus
+http://185.214.192.19:5000/play/1300
+#EXTINF:-1,rtl-klub
+http://185.214.192.19:5000/play/1623
+#EXTINF:-1,story5-hu
+http://185.214.192.19:5000/play/1928
+#EXTINF:-1,tv2
+http://185.214.192.19:5000/play/1624
+#EXTINF:-1,USA: A&E HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20501.ts
+#EXTINF:-1,USA: ABC
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20500.ts
+#EXTINF:-1,USA: ABC Action News
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20499.ts
+#EXTINF:-1,USA: ABC FAMILY/SPARK
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20498.ts
+#EXTINF:-1,USA: ABC HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20497.ts
+#EXTINF:-1,USA: ABC News
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20496.ts
+#EXTINF:-1,USA: AFN Family Movie
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20495.ts
+#EXTINF:-1,USA: AFN Movie
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20494.ts
+#EXTINF:-1,USA: AFN News
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20493.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20492.ts
+#EXTINF:-1,USA: AFN Prime Pacific
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20491.ts
+#EXTINF:-1,USA: AFN Sports
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20490.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20489.ts
+#EXTINF:-1,USA: AFN Sports HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20488.ts
+#EXTINF:-1,USA: AL JAZEERA U.S HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20487.ts
+#EXTINF:-1,USA: AMC
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20486.ts
+#EXTINF:-1,USA: Americas Auction TV
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20485.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20484.ts
+#EXTINF:-1,USA: Astro Sports 2
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20483.ts
+#EXTINF:-1,USA: Astro Sports 3
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20482.ts
+#EXTINF:-1,USA: Astro Sports 4
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20481.ts
+#EXTINF:-1,USA: BBC WORLD NEWS
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20480.ts
+#EXTINF:-1,USA: Big Ten Network HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20478.ts
+#EXTINF:-1,USA: BLOOMBERG TV
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20477.ts
+#EXTINF:-1,USA: Bravo HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20476.ts
+#EXTINF:-1,USA: BT SPORT | ESPN
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20475.ts
+#EXTINF:-1,USA: C-SPAN 1 HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20474.ts
+#EXTINF:-1,USA: C-SPAN 2 HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20473.ts
+#EXTINF:-1,USA: C-SPAN 3 HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20472.ts
+#EXTINF:-1,USA: CAPITAL TV
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20471.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20470.ts
+#EXTINF:-1,USA: CBS HD-US
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20469.ts
+#EXTINF:-1,USA: CBS News
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20468.ts
+#EXTINF:-1,USA: CBSN News
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20467.ts
+#EXTINF:-1,USA: Cinemax 5 Max
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20466.ts
+#EXTINF:-1,USA: Cinemax 5 Star Max
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20465.ts
+#EXTINF:-1,USA: Cinemax ActionMax
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20464.ts
+#EXTINF:-1,USA: Cinemax East
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20463.ts
+#EXTINF:-1,USA: Cinemax Moremax
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20462.ts
+#EXTINF:-1,USA: CITY HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20461.ts
+#EXTINF:-1,USA: CNBC HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20460.ts
+#EXTINF:-1,USA: CNN
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20459.ts
+#EXTINF:-1,USA: CNN HD
+http://178.132.7.100:15000/live/kbiyelax/Y63mh8Ni3l/20458.ts
+#EXTINF:-1,USA: CNN HD INTERNATIONAL
 
 
 
