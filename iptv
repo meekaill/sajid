@@ -20,47 +20,9 @@ http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="India",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",ET NOW
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="India",9x
+http://139.59.68.238/stm-v3/api/def2.php?id=193&quality=0&type=0
 
 
 
-
-
-#EXTINF:-1,IN: Aditya TV Tamil
-http://thenew.tv:8000/Anthony1/Anthony1/67357
-#EXTINF:-1,IN: AINITA TV
-http://thenew.tv:8000/Anthony1/Anthony1/67356
-#EXTINF:-1,IN: AKAAL TV
-http://thenew.tv:8000/Anthony1/Anthony1/67355
-#EXTINF:-1,IN: Akaram TV
-http://thenew.tv:8000/Anthony1/Anthony1/67354
-#EXTINF:-1,IN: ANGEL TV HD
-http://thenew.tv:8000/Anthony1/Anthony1/67353
-#EXTINF:-1,IN: ANIMAL PLANET HD
-http://thenew.tv:8000/Anthony1/Anthony1/67352
-#EXTINF:-1,IN: Ankhila Punjab TV
-http://thenew.tv:8000/Anthony1/Anthony1/67351
-#EXTINF:-1,IN: APlus TV PK
-http://thenew.tv:8000/Anthony1/Anthony1/67350
-#EXTINF:-1,IN: APN
-http://thenew.tv:8000/Anthony1/Anthony1/67349
-#EXTINF:-1,IN: Apna Punjab
-http://thenew.tv:8000/Anthony1/Anthony1/67348
-#EXTINF:-1,IN: ARIHANT TV
-http://thenew.tv:8000/Anthony1/Anthony1/67347
-#EXTINF:-1,IN: ARY DIGITAL PK
-http://thenew.tv:8000/Anthony1/Anthony1/67346
-#EXTINF:-1,IN: Asian TV
-http://thenew.tv:8000/Anthony1/Anthony1/67345
-#EXTINF:-1,IN: ASIANET ME
-http://thenew.tv:8000/Anthony1/Anthony1/67344
-#EXTINF:-1,IN: Asianet Plus HD
-http://thenew.tv:8000/Anthony1/Anthony1/67343
-#EXTINF:-1,IN: ATN News
-http://thenew.tv:8000/Anthony1/Anthony1/67342
-#EXTINF:-1,IN: ATN/NRDTV News (Punjabi)
-http://thenew.tv:8000/Anthony1/Anthony1/67341
-#EXTINF:-1,IN: AXN HD
-http://thenew.tv:8000/Anthony1/Anthony1/67340
-#EXTINF:-1,IN: B4U Aflam
-http://thenew.tv:8000/Anthony1/Anthony1/67339
