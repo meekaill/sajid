@@ -8,21 +8,10 @@ http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png" group-title="SRILANKA",Nethra TV
-http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-zeTW6LjG3sE/WtQjJdb4tnI/AAAAAAAAArk/iN1DpmS3SN462maAo9ku_1c94WTD91tqACK4BGAYYCw/s1600/Jaffna-Festival-450-150.png" group-title="SRILANKA",Jaffna TV
-http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="India",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="India",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India",9x Jakaas
-http://195.181.173.90:25461/federaltv/qCrDCkasjjs/6207?token=SBUMB0tdEAoTAFZaBAdVBQMCUAlQAlJXBw8MUFJUDgYEUVdXWlQBUVIUGxoRQEEBAAk+WAUXXABQCQMeQ0dFAEFoDQIaDxAFAQIEAEAYERAICQQTWwRTAFYNBQtRBQJJEUcNAhoPEAIBDwQKURYfRgQcFVQTWwdaPV1RRAhRU0cJWREKVBkQX19pU10PVV0AQ15DAUMZRF8RSRYIQ3ZeDEFWBQFNFWJGRRh7TAYaEUhDBghFE1QSU0ADFgNSCgdHHxUHCU1bRkJIFA0aL2IRSEMBGUUEWxVfDVcWCENGRUcfFQ0VZ0dXQ0VEUlkPUUFGW0ZQE00XC1caZlddD1xTBkdeCwhLFwgSAAYHGk4WXgsPDRVeE2oWXwYbDhBQBgJTARUZ
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",CNN
 http://212.8.243.19:25461/kc9p2hZnmw/upnDELfjjtkk/40644?token=HUcJBEVRFg9EDVIEXVAEAVdUUlADCQAIA1JXUVBRBFIDBFAEUFgGA14XSEBKF0dWVAg7D1cbCAwBVVIEHURGEQMXPgxSGw4XUgJcUwlBGRFBDAkDEQMDDQdXVAkFUQtSSkcRDFIbDlsTWQhOGwZNR1AXCgdfZlZdRwoFVRNcXRcKCU1HWVdrUQNYBQxdQQ8RBEdIRFpKQhoLQSJYWBRSAwEQQTVATRp5ElFKQBVBV1pBFwUSVhsIVkQPChwTBVwXCBETHBQDFmA1F0hAXBtBVlsWDQldGwgaRRBEHBMPQD0UABIRRFxVWANHRlgbUhcfFwgFHmxaXVZfBgVEWAldEURfQ1QDCxYZRFgLDFAXWkFqFQ0CEQNcTV0PGw==
@@ -32,15 +21,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",BBC NEWS
 http://195.181.170.36:25461/federaltv/qCrDCkasjjs/17019?token=SBUMB0tdEAoTDlMPBlcKXQVXBFRUBAAPUQ8EB1AHVVwEDlUFWQFRA1MUGxoRQEEBAAk+WAUXXAdVCQULTRBDFlZFOw9cFwgSBAYDC1oWH0YVDQxUQw9XA1QNBwVYAw5cHxUUD1wXCBIDAAYJVRYfRgQcFVQTWwdaPV1RRAhRU0cJWREKVBkQX19pU10PVV0AQ15DAUMZRF8RSRYIQ3ZeDEFWBQFNFWJGRRh7TAYaEUhDBghFE1QSU0ADFgdXAANHHxUHCU1bRkJIFA0aN2cRSEMBGUUEWxVfDVcWCENGRUcfFQ0VZ0dXQ0VEUlkPUUFGW0ZQE00XC1caZlddD1xTBkdeCwhLFwgSAAYHGk4WXgsPDRVeE2oWXwYbDhBQCgNVAhUZ
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US Music",Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Cineplex HD
 http://185.59.220.103:25461/federaltv/qCrDCkasjjs/6206?token=SBUMB0tdEAoTB1FeVlIDUVNVA1dQBVECWw4GUFNXA1BWVQBeCgEHAlAUGxoRQEEBAAk+WAUXXABQCQIeQ0dFAEFoDQIaDxAFAQIEAEAYERAICQQTWwRTAFYNBQpWBgVJEUcNAhoPEAQDBw8aThZWHBUBE18AWTlSB09dUQQQDAtGWwhKGlpcb1VTWlkMUBFeQ1RDHUNcFUZAAxZ2CVtEBFJQEUZoQ0YefUJTFkAYEQYIEBNQFVBEDEALAANYEBpHUFgRCExHSxILFHpuQBgRARkQBF8SXAlYQAMWRhIQGkdaRDsUXUZGQlRXWl0QFglGUEZNEwxUHmkBVlpcBFFCDFxZF0QCFwMAARQbGg9bXQ0VCxNuEVwCFFgbBgpRBAJHTg==
