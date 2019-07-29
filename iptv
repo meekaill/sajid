@@ -29,6 +29,13 @@ http://185.93.1.132:25461/federaltv/qCrDCkasjjs/7685?token=SBUMB0tdEAoTDwcIUVEFA
 http://190.2.144.50:25461/kc9p2hZnmw/upnDELfjjtkk/40560?token=HUcJBEVRFg9EBFFVDgZTVVdcUQUAWgULBgFQVlUFA1RQUlkDBF8AAlQXSEBKF0dWVAg7D1cbCAwBVlAAHURGEQMXPgxSGw4XUgJcUwlBGRFBDAkDEQMDDQdXVQcJXgpUSkcRDFIbDhdXB1BSAEEZEVAdEANBV1NUbgcDRlgFVkBcCxQJWhUWWghqAAdUAltXF19GVxEVEFFCE0QKEyJbCxQEAAJDGWRDEhsoFl1NFx8XBw0SQVhGXRNZRAQJXgJASkcCCkNXQEcfF15AbDAXHxcAHBJWV0FRXg1EChMSQEBKRwgWaUtRRhJHAQNUBkcRD0dVRB8bX1lJPAVfXwhWARIMDgtFGw4XVwBWQBVBWFxbDBAJQWZCUVVBXBIDXgBbX0cc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",Aljazeera ENG
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US Music",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
