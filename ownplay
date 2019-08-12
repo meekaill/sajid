@@ -10,7 +10,8 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 #EXTINF:-4 group-title="Maldives" tvg-logo=" ",Go plus tv HD
 http://203.104.29.53/live/1007/10079/master.m3u8
 
-
+#EXTINF:-1 group-title="SriLanka" tvg-logo="", ITN HD
+https://cdncities.com/itndvr2/itndvr2/chunklist_w1539480541.m3u8?nimblesessionid=108775939
 
 
 
