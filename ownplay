@@ -10,11 +10,8 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 #EXTINF:-4 group-title="Maldives" tvg-logo=" ",Go plus tv HD
 http://203.104.29.53/live/1007/10079/master.m3u8
 
-#EXTINF:-1 group-title="SriLanka" tvg-logo="", ITN HD
-https://cdncities.com/itndvr2/itndvr2/chunklist_w1539480541.m3u8?nimblesessionid=108775939
-#EXTINF:-1 group-title="SriLanka" tvg-logo="", bein HD
-http://163.172.39.175:8081/live/BEINSPORT2/chunks.m3u8?nimblesessionid=1577157
-
+#EXTINF:-1 group-title="USA" tvg-logo="", CMT HD
+http://live.savitar.tv/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDY6NDM6NTIgUE0maGFzaF92YWx1ZT1ZeVpuUUtRd0Zaa3pXMnQyZU5wcUZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 
 
 
