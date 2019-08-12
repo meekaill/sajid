@@ -22,3 +22,5 @@ http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9O
 http://live.savitar.tv/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=21858353&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6MzI6MTkgUE0maGFzaF92YWx1ZT1yUU11U2ZOaHQvQ25jNnZtNnh1NzNBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:-1 group-title="USA" tvg-logo="", Paramount Network
 http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=21860181&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6MzY6NDAgUE0maGFzaF92YWx1ZT1PcGJLMXpFZHIyUTd6bEZoVUtiSjFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:-1 group-title="USA" tvg-logo="", TCM
+http://live.savitar.tv/TCM/myStream/chunks.m3u8?nimblesessionid=21861640&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6NDA6MTggUE0maGFzaF92YWx1ZT1ybzA1ek9acllnSkVRYlNkUGx5K3hBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
