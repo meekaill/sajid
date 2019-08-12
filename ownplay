@@ -18,3 +18,5 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://live.savitar.tv/DA/myStream/chunks.m3u8?nimblesessionid=21842566&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDY6NTY6MDAgUE0maGFzaF92YWx1ZT1hVXZmMmpOeDYvQzFGY0ZUYVFSd0hnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:-1 group-title="USA" tvg-logo="", CNN HD
 http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6Mjk6NTcgUE0maGFzaF92YWx1ZT1CKzU4TjZvK09DbUdmZzdjeTMvMlhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+#EXTINF:-1 group-title="USA" tvg-logo="", BBC US
+http://live.savitar.tv/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=21858353&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6MzI6MTkgUE0maGFzaF92YWx1ZT1yUU11U2ZOaHQvQ25jNnZtNnh1NzNBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
