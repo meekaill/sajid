@@ -11,7 +11,7 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 http://203.104.29.53/live/1007/10079/master.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="", CMT HD
-http://live.savitar.tv/CMT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDY6NDM6NTIgUE0maGFzaF92YWx1ZT1ZeVpuUUtRd0Zaa3pXMnQyZU5wcUZnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://live.savitar.tv/CMT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", WEATHER HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", DESTINAT US
