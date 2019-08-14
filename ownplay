@@ -14,4 +14,6 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", WEATHER HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", CNN HD
-https://1861340594.rsc.cdn77.org/x3oiCx5ln7lcCbyKSPSa4w==,1565766024/ls-54548-1/index.m3u8
+https://1861340594.rsc.cdn77.org/n1C6JHvM76kF-qN_pRTWdA==,1565767815/ls-54548-1/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="", BBC WORLD HD
+http://ott-cdn.ucom.am/s24/01.m3u8
