@@ -19,3 +19,6 @@ https://1861340594.rsc.cdn77.org/qc9ZR7-y3qs1B26Ld9e21g==,1565794813/ls-54548-1/
 http://ott-cdn.ucom.am/s24/01.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", MSNBC HD
 https://1420543146.rsc.cdn77.org/H9oRy_qdyiIvDalaRxmkrA==,1565794208/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="", ZOOM TV
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD160L480P/chunklist_b300000.m3u8
