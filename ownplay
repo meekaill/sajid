@@ -10,19 +10,8 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 #EXTINF:-4 group-title="Maldives" tvg-logo=" ",Go plus tv HD
 http://203.104.29.53/live/1007/10079/master.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="", CMT HD
-http://live.savitar.tv/CMT/myStream/playlist.m3u8
+
 #EXTINF:-1 group-title="USA" tvg-logo="", WEATHER HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="", DESTINAT US
-http://live.savitar.tv/DA/myStream/chunks.m3u8?nimblesessionid=21842566&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDY6NTY6MDAgUE0maGFzaF92YWx1ZT1hVXZmMmpOeDYvQzFGY0ZUYVFSd0hnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:-1 group-title="USA" tvg-logo="", CNN HD
-http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6Mjk6NTcgUE0maGFzaF92YWx1ZT1CKzU4TjZvK09DbUdmZzdjeTMvMlhnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="USA" tvg-logo="", BBC US
-http://live.savitar.tv/BBCAmerica/myStream/chunks.m3u8?nimblesessionid=21858353&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6MzI6MTkgUE0maGFzaF92YWx1ZT1yUU11U2ZOaHQvQ25jNnZtNnh1NzNBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="USA" tvg-logo="", Paramount Network
-http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=21860181&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6MzY6NDAgUE0maGFzaF92YWx1ZT1PcGJLMXpFZHIyUTd6bEZoVUtiSjFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="USA" tvg-logo="", TCM
-http://live.savitar.tv/TCM/myStream/chunks.m3u8?nimblesessionid=21861640&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6NDA6MTggUE0maGFzaF92YWx1ZT1ybzA1ek9acllnSkVRYlNkUGx5K3hBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
-#EXTINF:-1 group-title="USA" tvg-logo="", NAT GEO
-http://live.savitar.tv/NatGEO/myStream/chunks.m3u8?nimblesessionid=21862346&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE5IDc6NDI6MDUgUE0maGFzaF92YWx1ZT1NQWRJZ0FtdWpWR1g2ZXZQWFZwOFJRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+https://1861340594.rsc.cdn77.org/x3oiCx5ln7lcCbyKSPSa4w==,1565766024/ls-54548-1/index.m3u8
