@@ -17,3 +17,5 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 https://1861340594.rsc.cdn77.org/n1C6JHvM76kF-qN_pRTWdA==,1565767815/ls-54548-1/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", BBC WORLD HD
 http://ott-cdn.ucom.am/s24/01.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="", MSNBC HD
+https://1420543146.rsc.cdn77.org/P3k1qbZFBFrW5qKnRlOOzQ==,1565767205/LS-ATL-54548-10/index.m3u8
