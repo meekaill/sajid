@@ -13,15 +13,19 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="", WEATHER HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="", CNN HD
-http://212.8.243.19:25461/kc9p2hZnmw/upnDELfjjtkk/40644?token=HUcJBEVRFg9EAQdVAFsMA1ZWVQMFCgALVVdTBQNQVgdUA1RVBAoCBVAXSEBKF0dWVAg7D1cbCAwBVVIEHURGEQMXPgxSGw4XUgJcUwlBGRFBDAkDEQMDDQdVVAkIXgVTSkcRDFIbDhdXBlZVC0EZEVAdEANBV1NUbgcDRlgFVkBcCxQJWhUWWghqAAdUAltXF19GVxEVEFFCE0QKEyJbCxAACQwWa1VUDF8BG14GFXRACQwTXRseGlMKEkJQElZAXEdVXAABFhlEVgsXVxdHShdfRitlGx4aVBsSVV8VWg0IR1tHQkoWGURcFz1LBkZHRwAFC1ZLEAITUkQcEwtSGjkGDgtYXFdBD1oKERtZFwIAV0ZKEVRdVlgXCUJuFloGRF9DVAINDQZESA
-#EXTINF:-1 group-title="USA" tvg-logo="", BBC WORLD HD
-http://ott-cdn.ucom.am/s24/01.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="", MSNBC HD
-http://185.93.1.132:25461/federaltv/qCrDCkasjjs/7685?token=TBFdAxJdQw8SDVMHUQVRAAsGAAQLDQACDQtXBQZQWlRUBQFRUAxSBgYbGRIQEBZWUl1mXFcaCAcPAQEcEhNKAEVsXAZDD0MAAA0GCEFIRkdaXVwXCQkHBg8LDQgJVw1JFUNcBkMPQwQCDwIEQUhGVktEXEddWV5vXVxCWVMDG19ZRlkOTRcOW29dUF0CCgARCRIJFx8aW0NJGw4SdA5QE1JbXEIzVABfWlxMVwZEI0ZfWExbERQQUlBNRlFEAxtfFQcNV1QXTRdTVkBeFxYdEQkSdGMRFBBVQU1RXkMPVgsVCRcWEhdNF1lKakIGFxBBVlFUUEEaCBIIGxgSXQdBOlRcWwwEVhVcX1dGEllGVQMDEhUXXldcWU1WRm9AD11HDRECVFkBQ0g
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", SONY SIX 
-http://tvfun.no-ip.biz:6969/7xJlSnNT09/qfxmfhKX6d/13501
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", SONY ESPN
-http://tvfun.no-ip.biz:6969/7xJlSnNT09/qfxmfhKX6d/13365
-#EXTINF:-1 group-title="SPORTS" tvg-logo="", Skynet HD
-http://185.59.220.103:25461/federaltv/qCrDCkasjjs/5178?token=TBFdAxJdQw8SCANUV1xUBAtRWlABW1ZWWwlRVQUEXAMOAQIGWQdUAQUbGRIQEBZWUl1mXFcaCAUIDgwcEhNKAEVsXAZDD0MAAA0GCEFIRkdaXVwXCQkHBg8KBAIBUAlJFUNcBkMPQwcBDAUEQUhGVktEXEddWV5vXVxCWVMDG19ZRlkOTRcOW29dUF0CCgARCRIJFx8aW0NJGw4SdA5QE1JbXEIzVABfWlxMVwZEI0ZfWExbERQQUlBNRlFEAxtfFQEEUlAXTRdTVkBeFxYdEQkSdGMRFBBVQU1RXkMPVgsVCRcWEhdNF1lKakIGFxBBVlFUUEEaCBIIGxgSXQdBOlRcWwwEVhVcX1dGEllGVQMDEhUXXldcWU1WRm9AD11HDREHVFgDQ0g
+
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN", Boogie Bollywood
+https://94krv9gaqb6p-hls-live.wmncdn.net/1161/boogle/95f10e8bf7385bce1b583c1532b2712c.sdp/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Tashan
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Jalwa
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9XO
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9XM
+http://pockettv.xyz/api/zee.m3u8?c=9xm
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
+#EXTINF:-1 tvg-id="id N/A" group-title="UK" tvg-logo="logo N/A",BBC World News
+http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Wion
