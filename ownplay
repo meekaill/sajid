@@ -29,3 +29,4 @@ http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1 tvg-id="id N/A" group-title="UK" tvg-logo="logo N/A",BBC World News
 http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Wion
+http://pockettv.xyz/api/zee.m3u8?c=wion
