@@ -36,3 +36,5 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",BEIN HD 11
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
 
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="IND V WI",Ten 1 JTV HQ
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten_1/Ten_1_600.m3u8?jct=J8hmKmvuxS6qUG_jdykNJw&pxe=1567352704&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/63.0.3239.84 Safari/537.36 ExoPlayer"
