@@ -35,3 +35,11 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",BEIN HD 11
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
+
+http://cdn.youpit.site:80/live/yp2/chunks.m3u8
+#EXTINF:-1 group-title="Football LIVE",Live 2
+http://cdn.youpit.site:80/live/yp4/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="IND V WI",$ TEN 3
+http://tv11.roarzone.info:8080/live/ten3-ebx/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="IND V WI",$ TEN 1
+http://tv11.roarzone.info:8080/live/ten1-ebx/chunks.m3u8
