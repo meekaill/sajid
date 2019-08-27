@@ -16,8 +16,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", NSA HD
 http://36990d16-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/4/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=8484dac6cbaf5da9e5e00e0bc4b7cb617190e10f&cdnHost=uhs-akamai.ustream.tv
 
-#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN", Boogie Bollywood
-https://94krv9gaqb6p-hls-live.wmncdn.net/1161/boogle/95f10e8bf7385bce1b583c1532b2712c.sdp/tracks-v2a1/index.m3u8
+
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Tashan
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Jalwa
