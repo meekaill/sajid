@@ -31,8 +31,10 @@ http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
-#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee TV HD
-http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_800.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",B4U MUSIC HD
+http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?nimblesessionid=250288764&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6MTg6NDMgUE0maGFzaF92YWx1ZT1KbGNyN2Q3WlEwUWRsZHFVTjZCcllBPT0mdmFsaWRtaW51dGVzPTI=
+
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",BEIN SPORTS 11
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
