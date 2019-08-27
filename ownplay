@@ -33,7 +33,6 @@ http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee TV HD
-http://z5ams.akamaized.net/zeetvhd/tracks-v5a1/exp=1566983165~acl=%2f*~data=hdntl~hmac=e4116ae016db4297b2ca6d761d8a341ab0b5654fbe9f3e96000dd21c9f7a86a3/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",BEIN SPORTS 11
