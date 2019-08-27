@@ -21,8 +21,8 @@ http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chunklist_w1507769562.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Jalwa
 http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
-#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9XO
-http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",DESI TV
+http://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9XM
 http://pockettv.xyz/api/zee.m3u8?c=9xm
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zing
