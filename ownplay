@@ -38,3 +38,5 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",SONY TEN 1 HD
 http://20gbpslb.blazeintv.online/Ten_HD/video.m3u8?token=testing
+#EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",SONY SIX HD
+http://20gbpslb.blazeintv.online/Six_HD/video.m3u8?token=testing
