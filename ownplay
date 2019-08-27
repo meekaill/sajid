@@ -37,10 +37,5 @@ http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?nimblesessionid=250288764
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",BEIN SPORTS 11
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",SONY TEN 1 HD
-http://20gbpslb.blazeintv.online/Ten_HD/video.m3u8?token=testing
-#EXTINF:-1 tvg-id="id N/A" group-title="SPORTS" tvg-logo="logo N/A",SONY SIX HD
-http://20gbpslb.blazeintv.online/Six_HD/video.m3u8?token=testing
-
+http://185.63.254.153:1200/sports2019/bein11/chunks.m3u8?nimblesessionid=5005470&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6MjM6MzMgUE0maGFzaF92YWx1ZT1kdTYvWXl3L0szQ0NLNGRaVmN5OFJ3PT0mdmFsaWRtaW51dGVzPTI=
 
