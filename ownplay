@@ -13,8 +13,6 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="", WEATHER HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="", NSA HD
-http://36990d16-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/4/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=8484dac6cbaf5da9e5e00e0bc4b7cb617190e10f&cdnHost=uhs-akamai.ustream.tv
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Tashan
