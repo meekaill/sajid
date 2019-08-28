@@ -37,7 +37,7 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?nimblesessionid=250288764&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6MTg6NDMgUE0maGFzaF92YWx1ZT1KbGNyN2Q3WlEwUWRsZHFVTjZCcllBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CHANNEL EYE
-http://185.149.89.37:7071/sri2019/channeleye/chunks.m3u8?nimblesessionid=1393665&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6Mjc6NDEgUE0maGFzaF92YWx1ZT1tYlV3dmhKYjdSRThsZXNyTmhDbXlnPT0mdmFsaWRtaW51dGVzPTI=
+http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CHANNEL C
 http://185.149.89.37:7071/sri2019/channelc/chunks.m3u8?nimblesessionid=1394194&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6Mzc6MTcgUE0maGFzaF92YWx1ZT0yZW0rM3BqajVTQys5TVlWZE1OSk9nPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CITI HITS
