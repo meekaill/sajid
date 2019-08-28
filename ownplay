@@ -34,7 +34,8 @@ http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",B4U MUSIC HD
-http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?nimblesessionid=250288764&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6MTg6NDMgUE0maGFzaF92YWx1ZT1KbGNyN2Q3WlEwUWRsZHFVTjZCcllBPT0mdmFsaWRtaW51dGVzPTI=
+http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CHANNEL EYE
 http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8
