@@ -15,6 +15,12 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="", ATLANTIC HD
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chunklist_w1507769562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",CNN
+http://212.8.243.19:25461/kc9p2hZnmw/upnDELfjjtkk/40644?token=HUcJBEVRFg9EDVIEXVAEAVdUUlADCQAIA1JXUVBRBFIDBFAEUFgGA14XSEBKF0dWVAg7D1cbCAwBVVIEHURGEQMXPgxSGw4XUgJcUwlBGRFBDAkDEQMDDQdXVAkFUQtSSkcRDFIbDlsTWQhOGwZNR1AXCgdfZlZdRwoFVRNcXRcKCU1HWVdrUQNYBQxdQQ8RBEdIRFpKQhoLQSJYWBRSAwEQQTVATRp5ElFKQBVBV1pBFwUSVhsIVkQPChwTBVwXCBETHBQDFmA1F0hAXBtBVlsWDQldGwgaRRBEHBMPQD0UABIRRFxVWANHRlgbUhcfFwgFHmxaXVZfBgVEWAldEURfQ1QDCxYZRFgLDFAXWkFqFQ0CEQNcTV0PGw==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",Aljazeera ENG
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Tashan
@@ -33,8 +39,10 @@ http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
-#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",B4U MUSIC HD
-http://212.8.253.141:7071/ind2019/b4umusic/chunks.m3u8?testing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="India",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="India",Wow Music
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CHANNEL EYE
