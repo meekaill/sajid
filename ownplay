@@ -11,12 +11,8 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 http://203.104.29.53/live/1007/10079/master.m3u8
 
 
-#EXTINF:-1 group-title="USA" tvg-logo="", WEATHER HD
+#EXTINF:-1 group-title="US" tvg-logo="", WEATHER HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="", ATLANTIC HD
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chunklist_w1507769562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",CNN
-http://212.8.243.19:25461/kc9p2hZnmw/upnDELfjjtkk/40644?token=HUcJBEVRFg9EDVIEXVAEAVdUUlADCQAIA1JXUVBRBFIDBFAEUFgGA14XSEBKF0dWVAg7D1cbCAwBVVIEHURGEQMXPgxSGw4XUgJcUwlBGRFBDAkDEQMDDQdXVAkFUQtSSkcRDFIbDlsTWQhOGwZNR1AXCgdfZlZdRwoFVRNcXRcKCU1HWVdrUQNYBQxdQQ8RBEdIRFpKQhoLQSJYWBRSAwEQQTVATRp5ElFKQBVBV1pBFwUSVhsIVkQPChwTBVwXCBETHBQDFmA1F0hAXBtBVlsWDQldGwgaRRBEHBMPQD0UABIRRFxVWANHRlgbUhcfFwgFHmxaXVZfBgVEWAldEURfQ1QDCxYZRFgLDFAXWkFqFQ0CEQNcTV0PGw==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",Aljazeera ENG
@@ -39,20 +35,11 @@ http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="India",B4U Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="INDIAN",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="India",Wow Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="INDIAN",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",TIMES NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
-
-#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CHANNEL EYE
-http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CHANNEL C
-http://185.149.89.37:7071/sri2019/channelc/chunks.m3u8?nimblesessionid=1394194&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6Mzc6MTcgUE0maGFzaF92YWx1ZT0yZW0rM3BqajVTQys5TVlWZE1OSk9nPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",CITI HITS
-http://185.149.89.37:7071/sri2019/citihits/chunks.m3u8?nimblesessionid=1394261&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6Mzg6MjggUE0maGFzaF92YWx1ZT1wekNLTUdQT0VjdXo0RWovZDBiNWdnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-id="id N/A" group-title="SRILANKA" tvg-logo="logo N/A",DERANA TV
-http://185.149.89.37:7071/sri2019/deranatv/chunks.m3u8?nimblesessionid=1394302&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDE5IDU6Mzk6MTIgUE0maGFzaF92YWx1ZT16dFh3YnlzWUxwTkEvOTlXQUIvcDNnPT0mdmFsaWRtaW51dGVzPTI=
 
