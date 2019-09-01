@@ -32,7 +32,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1 tvg-id="id N/A" group-title="UK" tvg-logo="logo N/A",BBC World News
 http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Wion
-https://z5ams.akamaized.net/wion/tracks-v1a1/exp=1567425143~acl=%2f*~data=hdntl~hmac=980056d2223a998ee95b0698013de4e715f7be1b894b8c2801be01bb89b77c1d/mono.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="INDIAN",B4U Music
