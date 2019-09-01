@@ -17,10 +17,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",Aljazeera ENG
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",CNN HD
-https://1861340594.rsc.cdn77.org/1x-8PAnK3XZE2NvBRdJQbw==,1567089012/ls-54548-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",MSNBC HD
-https://1420543146.rsc.cdn77.org/OwHCz8BSAHTQBKQY7Chz9w==,1567088405/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Tashan
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
@@ -35,7 +32,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zing
 #EXTINF:-1 tvg-id="id N/A" group-title="UK" tvg-logo="logo N/A",BBC World News
 http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Wion
-http://pockettv.xyz/api/zee.m3u8?c=wion
+https://z5ams.akamaized.net/wion/tracks-v2a1/exp=1567424697~acl=%2f*~data=hdntl~hmac=dc9f5e9883bb4086ba510ba068daa2e15312398db2b50fce8ee04bde587fc901/mono.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="INDIAN",B4U Music
