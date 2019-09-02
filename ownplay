@@ -19,6 +19,8 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",CNN HD
 https://1861340594.rsc.cdn77.org/qUWp9qE7YOXfcmsHQW9uQQ==,1567432447/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",MSNBC HD
+https://1420543146.rsc.cdn77.org/SAsfXzrFJAR89TprLniyHA==,1567432803/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",9X Tashan
 http://pockettv.xyz/api/zee.m3u8?c=9xtashan
