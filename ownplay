@@ -52,3 +52,5 @@ http://95.170.215.106/hls/m3u8/Bein-Sport-HD11.m3u8
 
 #EXTINF:-1 group-title="Srilanka" tvg-logo="", Vasantham TV
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
+#EXTINF:-1 group-title="Srilanka" tvg-logo="", Rupavahini TV
+http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
