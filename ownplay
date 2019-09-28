@@ -10,9 +10,7 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 #EXTINF:-4 group-title="Maldives" tvg-logo=" ",Go plus tv HD
 http://203.104.29.53/live/1007/10079/master.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo=" ",Raajje TV
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1569788716~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=1337b35fb3a4c9e0732cc45ac3277a700501720b1239748d57af4d8460f78a91
-
-
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1569791346~acl=%2fi%2fdclive_1%40396998*~data=hdntl~hmac=5bc95b2abae66c03005b878b311d9eece7d06ca9b4d7141f77554427ffc3caec
 #EXTINF:-1 group-title="US" tvg-logo="", WEATHER HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",SKY NEWS
