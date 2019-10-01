@@ -45,6 +45,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Colors HD
 http://voxtv.dynns.com:8000/movies/movies/122
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Sony HD
+http://130.185.150.79:1935/trunk/SONY-HD/playlist.m3u8
 
 
 
