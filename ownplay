@@ -45,6 +45,11 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 http://v4.tv4embed.com/iistrm/link.php?c=Sony_HD&q=1200&h=1f0e3dad99908345f7439f8ffabdffc4&e=.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Sony ten 1 HD
 http://v4.tv4embed.com/iistrm/link.php?c=Ten_HD&q=1200&h=1f0e3dad99908345f7439f8ffabdffc4&e=.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Colors HD
+http://voxtv.dynns.com:8000/movies/movies/122
+
+
+
 #EXTINF:-1 group-title="Japan" tvg-logo="", NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
