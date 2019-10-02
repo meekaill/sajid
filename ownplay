@@ -50,8 +50,8 @@ http://voxtv.dynns.com:8000/movies/movies/122
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Sony HD
 http://144.217.70.223:8080/vo_SONYHD/index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Star Baharath HD
-http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="INDIAN" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HS HD
+http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1 group-title="Japan" tvg-logo="", NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
