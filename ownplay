@@ -63,5 +63,5 @@ http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", Sony Ten 1
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_1/Ten_1_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten2 HD
+http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten2_HD/Ten2_HD_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
