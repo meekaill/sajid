@@ -38,7 +38,7 @@ http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",KBO Classic
-http://yuppmsleumo.akamaized.net/hls/live/2004031/kboclassic/kboclassic/kboclassic_400/chunklist.m3u8?hdntl=exp=1570624174~acl=/*~data=hdntl~hmac=0d7cabd4960abe6b9ef0742dd545b70810a499dbccb0c0b99862b3c80aeefc8f
+http://yuppmsleumo.akamaized.net/hls/live/2004031/kboclassic/kboclassic/playlist.m3u8?hdntl=exp=1570624174~acl=/*~data=hdntl~hmac=0d7cabd4960abe6b9ef0742dd545b70810a499dbccb0c0b99862b3c80aeefc8f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="INDIAN",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Wow_Cinema.png" group-title="INDIAN",Wow Music
