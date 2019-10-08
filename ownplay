@@ -46,7 +46,7 @@ http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",TIMES NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",BBO Classic
-http://yuppmslusmo.akamaized.net/hls/live/2003941/bboclassic/bboclassic/bboclassic_600/chunklist.m3u8?hdntl=exp=1570624174~acl=/*~data=hdntl~hmac=0d7cabd4960abe6b9ef0742dd545b70810a499dbccb0c0b99862b3c80aeefc8f
+http://yuppmslusmo.akamaized.net/hls/live/2003941/bboclassic/bboclassic/playlist.m3u8?hdntl=exp=1570624174~acl=/*~data=hdntl~hmac=0d7cabd4960abe6b9ef0742dd545b70810a499dbccb0c0b99862b3c80aeefc8f
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="INDIAN" tvg-logo="logo N/A",Star plus
