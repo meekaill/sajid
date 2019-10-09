@@ -66,3 +66,5 @@ http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 
 #EXTINF:-1 group-title="Srilanka" tvg-logo="", being 11
 http://51.15.5.80:8081/lpcarb/beinsports11/playlist.m3u8
+#EXTINF:-1 group-title="Srilanka" tvg-logo="", sony ten 2
+http://51.15.2.130:8081/lpcind2/sonyten2hd/chunks.m3u8
