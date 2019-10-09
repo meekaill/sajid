@@ -63,9 +63,6 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 http://cdncities.com/vasanthamtv/vasanthamtv/playlist.m3u8
 #EXTINF:-1 group-title="Srilanka" tvg-logo="", Rupavahini TV
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", ten1
-http://cricketlivestream.channelsiptv.com/wslivecricketstreams324b/ten1live/chunks.m3u8?nimblesessionid=3032826&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE5IDQ6NDk6NDYgUE0maGFzaF92YWx1ZT05anlXUGo5M2ZNb3prbk90djMvYTBnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 group-title="Sports" tvg-logo="", ten2
-http://cricketlivestream.channelsiptv.com/wslivecricketstreams324b/ten2live/chunks.m3u8?nimblesessionid=3032950&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE5IDU6MDE6MTYgUE0maGFzaF92YWx1ZT15TElud3FRcGVuYkNaVTIraWNiUkdnPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 group-title="Sports" tvg-logo="", Sony espn
-http://cricketlivestream.channelsiptv.com/wslivecricketstreams324b/sonyespnn/chunks.m3u8?nimblesessionid=3032864&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE5IDQ6NTg6MzAgUE0maGFzaF92YWx1ZT04L2R4WG50bG9qYkJrSFVTYTFmUm1nPT0mdmFsaWRtaW51dGVzPTE=
+
+#EXTINF:-1 group-title="Srilanka" tvg-logo="", being 11
+http://51.15.5.80:8081/lpcarb/beinsports11/playlist.m3u8
