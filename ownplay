@@ -15,6 +15,7 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Star Sport HD 1
 http://red.aslivetv.club/StarSportsHD1.m3u8 
-http://jiotvserver15.indmovies.in/jio/key01.php?fkey=Star_Sports_HD1/Star_Sports_HD1_JSRV13_1200-1570985020000.key
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Star Sport HD 2
 http://red.aslivetv.club/StarSportsHD2.m3u8
+#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Zee Bollywood
+http://z5ams.akamaized.net/classic/tracks-v4a1/exp=1571074190~acl=%2f*~data=hdntl~hmac=26c8181d83030846c355c55d12f7f10d4aa00f987a138f686b265d66e6c4f260/mono.m3u8
