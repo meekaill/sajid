@@ -11,5 +11,5 @@ http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:ne
 http://203.104.29.53/live/1007/10079/master.m3u8
 
 
-#EXTINF:-4 group-title="INDIAN NEWS" tvg-logo=" ",WION HD
-https://z5ams.akamaized.net/wion/tracks-v3a1/exp=1571072333~acl=%2f*~data=hdntl~hmac=aab9b835145bd209e2f4117b82a355620f1e75ed9f6c663eeac819e5157c4a2a/mono.m3u8
+#EXTINF:-4 group-title="DOCUMENTRY" tvg-logo=" ",NAT GEO HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
