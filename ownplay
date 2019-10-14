@@ -18,7 +18,7 @@ http://red.aslivetv.club/StarSportsHD1.m3u8
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Star Sport HD 2
 http://red.aslivetv.club/StarSportsHD2.m3u8
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Zee Bollywood
-http://z5ams.akamaized.net/classic/tracks-v3a1/exp=1571074190~acl=%2f*~data=hdntl~hmac=26c8181d83030846c355c55d12f7f10d4aa00f987a138f686b265d66e6c4f260/2019/10/13/17/30/34-05279.ts
+http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Sony HD
 http://red.aslivetv.club/SonyHD.m3u8
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Star Sport Select 1
