@@ -34,5 +34,5 @@ http://playing-jootv.somee.com/m3u8.php?c=Six_HD/Six_HD.m3u8
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Movies ok
 http://red.aslivetv.club/hotstar/live/hsplus.php?c=moviesok&e=.m3u8
 
-#EXTINF:-4 group-title="US NEWS" tvg-logo=" ",FOx News HD
-https://vsd15.mycdn.me/dash/stream_640425593366/stream.manifest/sig/h6TnFNB4lJ0/expires/1571223601185/srcIp/69.94.32.171/clientType/0/srcAg/CHROME/stream-high.jidx?_rnd=674761449
+#EXTINF:-4 group-title="US NEWS" tvg-logo=" ",CNN US HD
+https://1828529515.rsc.cdn77.org/2-1XCto2T3RVnTz8ajRqdg==,1571148417/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
