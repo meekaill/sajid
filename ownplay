@@ -33,6 +33,8 @@ http://playing-jootv.somee.com/m3u8.php?c=Ten2_HD/Ten2_HD.m3u8
 http://playing-jootv.somee.com/m3u8.php?c=Six_HD/Six_HD.m3u8
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Movies Now
 http://playing-jootv.somee.com/m3u8.php?c=Movies_Now_HD/.m3u8
+#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",MAX HD
+http://playing-jootv.somee.com/m3u8.php?c=Sony_Max_HD/Sony_Max_HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
