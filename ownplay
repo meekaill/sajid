@@ -56,6 +56,8 @@ http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP) (Opt-1)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="id N/A" group-title="24/7 WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",$ Wion
+http://pockettv.xyz/api/zee.m3u8?c=wion
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Eros Now
 http://playing-jootv.somee.com/m3u8.php?c=EROSNOW_Hindi_Premium/.m3u8
 #EXTINF:-4 group-title="DOCUMENTRY" tvg-logo=" ",BBC Earth
