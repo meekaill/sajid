@@ -70,5 +70,149 @@ http://playing-jootv.somee.com/m3u8.php?c=Sony_BBC_Earth_HD_English/.m3u8
 
 
 
-#EXTINF:-1,group-title="HINDI", STAR BHARAT HD
-https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,b_sport News
+http://iptv.new4tec.com:8080/live/carlos/carlos/22898.ts
+#EXTINF:-1,b_sport1 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23083.ts
+#EXTINF:-1,b_sport 2 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23092.ts
+#EXTINF:-1,b_sport 3 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23093.ts
+#EXTINF:-1,b_sport 4 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23094.ts
+#EXTINF:-1,b_sport 5 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23095.ts
+#EXTINF:-1,b_sport 6 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23096.ts
+#EXTINF:-1,b_sport 7 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23097.ts
+#EXTINF:-1,b_sport 8 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23098.ts
+#EXTINF:-1,b_sport 9 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23099.ts
+#EXTINF:-1,b_sport 10 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23084.ts
+#EXTINF:-1,b_sport 11 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23085.ts
+#EXTINF:-1,b_sport 12 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23086.ts
+#EXTINF:-1,b_sport 13 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23087.ts
+#EXTINF:-1,b_sport 14 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23088.ts
+#EXTINF:-1,b_sport 15 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23089.ts
+#EXTINF:-1,b_sport 16 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23090.ts
+#EXTINF:-1,b_sport 17 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23091.ts
+#EXTINF:-1,b_sport 1 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19878.ts
+#EXTINF:-1,b_sport 2 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19874.ts
+#EXTINF:-1,b_sport 3 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19873.ts
+#EXTINF:-1,b_sport 4 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19872.ts
+#EXTINF:-1,b_sport 5 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19871.ts
+#EXTINF:-1,b_sport 6 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19870.ts
+#EXTINF:-1,b_sport 7 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19869.ts
+#EXTINF:-1,b_sport 8 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19868.ts
+#EXTINF:-1,b_sport 9 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19867.ts
+#EXTINF:-1,b_sport 10 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19877.ts
+#EXTINF:-1,b_sport 11 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19876.ts
+#EXTINF:-1,b_sport 12 Low
+http://iptv.new4tec.com:8080/live/carlos/carlos/19875.ts
+#EXTINF:-1,b_sport 1 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23815.ts
+#EXTINF:-1,b_sport 2 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23811.ts
+#EXTINF:-1,b_sport 3 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23810.ts
+#EXTINF:-1,b_sport 4 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23809.ts
+#EXTINF:-1,b_sport 5 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23808.ts
+#EXTINF:-1,b_sport 6 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23807.ts
+#EXTINF:-1,b_sport 7 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23806.ts
+#EXTINF:-1,b_sport 8 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23805.ts
+#EXTINF:-1,b_sport 9 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23804.ts
+#EXTINF:-1,b_sport 10 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23814.ts
+#EXTINF:-1,b_sport 11 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23813.ts
+#EXTINF:-1,b_sport 12 HD (Backup)
+http://iptv.new4tec.com:8080/live/carlos/carlos/23812.ts
+#EXTINF:-1,b_sport (Backup2) HD 1
+http://iptv.new4tec.com:8080/live/carlos/carlos/22820.ts
+#EXTINF:-1,b_sport (Backup2) HD 2
+http://iptv.new4tec.com:8080/live/carlos/carlos/22819.ts
+#EXTINF:-1,b_sport (Backup2) HD 3
+http://iptv.new4tec.com:8080/live/carlos/carlos/22818.ts
+#EXTINF:-1,b_sport (Backup2) HD 4
+http://iptv.new4tec.com:8080/live/carlos/carlos/22817.ts
+#EXTINF:-1,b_sport (Backup2) HD 5
+http://iptv.new4tec.com:8080/live/carlos/carlos/22816.ts
+#EXTINF:-1,b_sport (Backup2) HD 6
+http://iptv.new4tec.com:8080/live/carlos/carlos/22815.ts
+#EXTINF:-1,b_sport (Backup2) HD 7
+http://iptv.new4tec.com:8080/live/carlos/carlos/22814.ts
+#EXTINF:-1,b_sport (Backup2) 8 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22822.ts
+#EXTINF:-1,b_sport (Backup2) 9 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22821.ts
+#EXTINF:-1,b_sport (Backup2) 10 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22823.ts
+#EXTINF:-1,b_sport 1 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20034.ts
+#EXTINF:-1,b_sport 2 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20027.ts
+#EXTINF:-1,b_sport 3 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20026.ts
+#EXTINF:-1,b_sport 4 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20025.ts
+#EXTINF:-1,b_sport 5 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20024.ts
+#EXTINF:-1,b_sport 6 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20023.ts
+#EXTINF:-1,b_sport 7 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20022.ts
+#EXTINF:-1,b_sport 8 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20021.ts
+#EXTINF:-1,b_sport 9 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20020.ts
+#EXTINF:-1,b_sport 10 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20033.ts
+#EXTINF:-1,b_sport 11 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20032.ts
+#EXTINF:-1,b_sport 12 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20031.ts
+#EXTINF:-1,b_sport 13 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20030.ts
+#EXTINF:-1,b_sport 14 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20029.ts
+#EXTINF:-1,b_sport 15 HD (backup3)
+http://iptv.new4tec.com:8080/live/carlos/carlos/20028.ts
+#EXTINF:-1,AR : BEIN MOVIES 1HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23109.ts
+#EXTINF:-1,AR : BEIN MOVIES 2HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/23114.ts
+#EXTINF:-1,AR: BEIN MOVIES 3 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22938.ts
+#EXTINF:-1,AR: BEIN MOVIES 4 HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22937.ts
+#EXTINF:-1,VIP AR: BeIN Movies 1HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22854.ts
+#EXTINF:-1,VIP AR: BeIN Movies 2HD
+http://iptv.new4tec.com:8080/live/carlos/carlos/22853.ts
