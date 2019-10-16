@@ -68,17 +68,5 @@ http://playing-jootv.somee.com/m3u8.php?c=Sony_BBC_Earth_HD_English/.m3u8
 
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels 2" tvg-logo="logo N/A",$ HBO 3
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels 2" tvg-logo="logo N/A",$ Hollywood M1
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_600.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels 2" tvg-logo="logo N/A",$ Hollywood M2
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_600.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels 2" tvg-logo="logo N/A",$ Hollywood M3
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_600.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels 2" tvg-logo="logo N/A",$ Sky Movies Action
-http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels 2" tvg-logo="logo N/A",$ Sky Movies Premiere
-http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels 2" tvg-logo="logo N/A",$ Sky Movies Select
-http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1,group-title="HINDI", STAR BHARAT HD
+https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
