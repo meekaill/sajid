@@ -23,8 +23,8 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 http://playing-jootv.somee.com/m3u8.php?c=Ten_HD/Ten_HD.m3u8
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Sony Ten 3 HD
 http://playing-jootv.somee.com/m3u8.php?c=Ten3_HD/Ten3_HD.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Fox Sports
-http://145.239.2.125:24003/streaming/clients_live.php?extension=m3u8&username=99ba146eaed2430a8572fe38e0a9d90a&password=ae34eee7f09e4bda85d65d4a898162e2&stream=49&type=hls&segment=49_42.ts
+#EXTINF:-4 group-title="Sports" tvg-logo=" ",Barca tv
+http://stream.tvtap.live:8081/live/es-barca.stream/chunks.m3u8?nimblesessionid=7631609052&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAxOSAyOjQ3OjI3IFBNJmhhc2hfdmFsdWU9c1dsZ0dTbHYvcERCUTNZbXlOVkk1Zz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Zee Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Sony HD
