@@ -13,39 +13,45 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 
 #EXTINF:-4 group-title="DOCUMENTRY" tvg-logo=" ",NAT GEO HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
-#EXTINF:-4 group-title="NEWS" tvg-logo=" ",BBC 
-http://ott-cdn.ucom.am/s24/04.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Dsports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Barca TV HD
-http://0nelive.ddns.net:13292/ceres/beinsportshd/chunks.m3u8?nimblesessionid=123363920&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAxOSAxMToyMjowOCBBTSZoYXNoX3ZhbHVlPWc4R2lndmY3WDJ3Y3BBS0hoUEowS1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-http://playing-jootv.somee.com/m3u8.php?c=Ten_HD/Ten_HD.m3u8
-#EXTINF:-4 group-title="NEWS" tvg-logo=" ",WION
-http://z5ams.akamaized.net/wion/index.m3u8?hdnts=st=1571481948~exp=1571484948~acl=/*~hmac=516b1d280aa27cfd951ee18b592ccb5f5f9484fdc5c796642e90915e95295d00
-#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Zee Action
-http://z5ams.akamaized.net/action/index.m3u8?hdnts=st=1571481396~exp=1571484396~acl=/*~hmac=283ea60c454240319b9f91d75ada65250adea668fe528d0cc3e1b43d62775fe4
-#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Zee Bollywood
-http://z5ams.akamaized.net/classic/index.m3u8?hdnts=st=1571481396~exp=1571484396~acl=/*~hmac=283ea60c454240319b9f91d75ada65250adea668fe528d0cc3e1b43d62775fe4
-#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Sony HD
-http://red.aslivetv.club/SonyHD.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Star Sport Select 1
-http://red.aslivetv.club/StarSportsSelectHD1.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Star Sport Select 2
-http://red.aslivetv.club/StarSportsSelectHD2.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",bein Laliga
-http://stream.tvtap.live:8081/live/bein-laliga.stream/chunks.m3u8?nimblesessionid=7631886652&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAxOSAyOjUzOjQ0IFBNJmhhc2hfdmFsdWU9Vi9naGUzUndBVVhMRWoxZGpwOVFvQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Fox SPorts
-http://stream.tvtap.live:8081/live/foxsports1.stream/chunks.m3u8?nimblesessionid=7632310103&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAxOSAzOjAyOjI2IFBNJmhhc2hfdmFsdWU9eDV5b3dhU0pQR1BlMWFuUWRtUlE2dz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Sony six hd
-http://playing-jootv.somee.com/m3u8.php?c=Six_HD/Six_HD.m3u8
-#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Movies Now
-http://playing-jootv.somee.com/m3u8.php?c=Movies_Now_HD/.m3u8
-#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",MAX HD
-http://playing-jootv.somee.com/m3u8.php?c=Sony_Max_HD/Sony_Max_HD.m3u8
-#EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",MNX HD
-http://playing-jootv.somee.com/m3u8.php?c=Movies_Now2_HD/.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Sony Espn HD
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/index.m3u8
+
+
+#EXTINF:0, group-title="SPORT",STAR SPORT SELECT
+http://epicstream.tv:7000/live/bhaiyya21@gmail.com/7aSBy3QePM/9339.m3u8
+#EXTINF:0, group-title="SPORT",Star sport HD 1
+http://uk2.vaders.tv/indian_star_sports_1_hd/tracks-v1a1/mono.m3u8?
+token=djIubG9jYWwuRjI5ZUVUbVhEOHNlMGEwRjBDeWpkbjVkZzVvZ01LMnJTUVVWUll0d3gta2Q3NHVaZ
+VpLb283RUNsRWR3Q1hpREtNYW5JTWV2eDNIQTBPYlRacVpqVVBFbE12X3hXSHJEbm14QTRDWTlSS3lzdHhr
+MHlDX0tLVGdjMGNkY2cwNG1VWW5sYVFDenJqWWdNa1M5ZHZBMzhKY2xoLVVyLWprdFJXZUVEY2NDa0hwX21
+zMVltTGw4dDJtMS1YLXBUUE9iQUdKMEY4SWlfdGh5RXNtTTI1bTA%3D
+#EXTINF:0, group-title="SPORT",Star sport 2 HD
+http://uk2.vaders.tv/indian_star_sports_2_hd/tracks-v1a1/mono.m3u8?
+token=djIubG9jYWwuRjI5ZUVUbVhEOHNlMGEwRjBDeWpkbjVkZzVvZ01LMnJTUVVWUll0d3gta2Q3NHVaZ
+VpLb283RUNsRWR3Q1hpREtNYW5JTWV2eDNIQTBPYlRacVpqVVBFbE12X3hXSHJEbm14QTRDWTlSS3lzdHhr
+MHlDX0tLVGdjMGNkY2cwNG1VWW5sYVFDenJqWWdNa1M5ZHZBMzhKY2xoLVVyLWprdFJXZUVEY2NDa0hwX21
+zMVltTGw4dDJtMS1YLXBUUE9iQUdKMEY4SWlfdGh5RXNtTTI1bTA%3D
+#EXTINF:0, group-title="SPORT",Star sport 2 hd
+http://uk2.vaders.tv/indian_star_sports_2_hd/tracks-v1a1/mono.m3u8?
+token=djIubG9jYWwuRjI5ZUVUbVhEOHNlMGEwRjBDeWpkbjVkZzVvZ01LMnJTUVVWUll0d3gta2Q3NHVaZ
+VpLb283RUNsRWR3Q1hpREtNYW5JTWV2eDNIQTBPYlRacVpqVVBFbE12X3hXSHJEbm14QTRDWTlSS3lzdHhr
+MHlDX0tLVGdjMGNkY2cwNG1VWW5sYVFDenJqWWdNa1M5ZHZBMzhKY2xoLVVyLWprdFJXZUVEY2NDa0hwX21
+zMVltTGw4dDJtMS1YLXBUUE9iQUdKMEY4SWlfdGh5RXNtTTI1bTA%3D
+#EXTINF:0, group-title="SPORT",Sky sport HD cricket
+http://epicstream.tv:7000/live/bhaiyya21@gmail.com/7aSBy3QePM/9404.m3u8
+#EXTINF:0, group-title="SPORT",Star sport select 1
+http://uk2.vaders.tv/indian_star_sports_select_1_hd/tracks-v1a1/mono.m3u8?
+token=djIubG9jYWwuRy1scWp3TnQtZnJmQ2M3emtBeXkzV252bmo1aURhR1R4dF9BQUw3VFB6ZVRnWDNtT
+Et1N2tTNU1nOFRuSDc4ZXNyZHVvbDZBQXJUeloxMk96aEVvMzZRNm9kLVlRVGFhZjgxcjFldldKVzBhTFNE
+bllEME5XU3YzVUFWY2ZtWXpUa2p0aXY1R3FmaUdQczFmSGFaNTJXUzlZaHB0NVBwZVJLUmZ6Y2paLXVLXzF
+xN2M5cXU2cE9Zd1RQYm8tbEctT1Rwb2xsblZPbnlydGM0M3BCTExRQQ%3D
+%3D&_fwobw=2087450&_fwtbw=2087450
+#EXTINF:0, group-title="SPORT",Star sport select 2
+http://uk2.vaders.tv/indian_star_sports_select_2_hd/tracks-v1a1/mono.m3u8?
+token=djIubG9jYWwuRGY1MzRyTXJ4VTI1bTJxOHZYU2ZXNklXcXZRcThZNjlRNTRncURadi1lRjlQeWg1T
+0xzSTR5R3l0S19zRk0zdEZDUnFDRHloVmJZbUJRZmxQTmRwT0xpcnlYNGVmZTZwTllKQk02NXpVSjlmNDNQ
+N0lzRDZPaTUweVhpOGkwejhKeEE5d3BpWlEyNVhHOTN2VGRiU2lSUllHMkZ1RWItTkhrRW00QW5KRXBwVXB
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
