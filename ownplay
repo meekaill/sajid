@@ -17,8 +17,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
 http://red.aslivetv.club/StarSportsHD1.m3u8 
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Star Sport HD 2
 http://red.aslivetv.club/StarSportsHD2.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Cbs sports ntw
-http://stream.tvtap.live:8081/live/cbssports.stream/chunks.m3u8?nimblesessionid
+#EXTINF:-4 group-title="Sports" tvg-logo=" ",Barca TV HD
+http://0nelive.ddns.net:13292/ceres/beinsportshd/chunks.m3u8?nimblesessionid=123363920&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAxOSAxMToyMjowOCBBTSZoYXNoX3ZhbHVlPWc4R2lndmY3WDJ3Y3BBS0hoUEowS1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 http://playing-jootv.somee.com/m3u8.php?c=Ten_HD/Ten_HD.m3u8
 #EXTINF:-4 group-title="NEWS" tvg-logo=" ",WION
 http://z5ams.akamaized.net/wion/index.m3u8?hdnts=st=1571481948~exp=1571484948~acl=/*~hmac=516b1d280aa27cfd951ee18b592ccb5f5f9484fdc5c796642e90915e95295d00
