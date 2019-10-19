@@ -22,8 +22,8 @@ http://stream.tvtap.live:8081/live/cbssports.stream/chunks.m3u8?nimblesessionid
 http://playing-jootv.somee.com/m3u8.php?c=Ten_HD/Ten_HD.m3u8
 #EXTINF:-4 group-title="Sports" tvg-logo=" ",Sony Ten 3 HD
 http://playing-jootv.somee.com/m3u8.php?c=Ten3_HD/Ten3_HD.m3u8
-#EXTINF:-4 group-title="Sports" tvg-logo=" ",Barca tv
-http://stream.tvtap.live:8081/live/es-barca.stream/chunks.m3u8?nimblesessionid=7631609052&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAxOSAyOjQ3OjI3IFBNJmhhc2hfdmFsdWU9c1dsZ0dTbHYvcERCUTNZbXlOVkk1Zz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-4 group-title="Sports" tvg-logo=" ",Zee Action
+http://z5ams.akamaized.net/action/tracks-v4a1/exp=1571569513~acl=%2f*~data=hdntl~hmac=97da0113385619fc1179a2d9cada176c6be20bbfe5e91f8c5d56026e9e389ea9/mono.m3u8
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Zee Bollywood
 http://z5ams.akamaized.net/classic/index.m3u8?hdnts=st=1571481396~exp=1571484396~acl=/*~hmac=283ea60c454240319b9f91d75ada65250adea668fe528d0cc3e1b43d62775fe4
 #EXTINF:-4 group-title="HINDI Movies" tvg-logo=" ",Sony HD
