@@ -14,8 +14,15 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 #EXTINF:-4 group-title="DOCUMENTRY" tvg-logo=" ",NAT GEO HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
 
-#EXTINF:-4 group-title="hindi movies" tvg-logo=" ",kadak
+#EXTINF:-4 group-title="HINDI MOVIES" tvg-logo=" ",kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-4 group-title="HINDI music" tvg-logo=" ",B4u Miusic
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="HINDI MOVIES",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w06sLAh.jpg" group-title="HINDI MOVIES",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
