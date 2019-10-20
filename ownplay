@@ -14,48 +14,8 @@ http://203.104.29.53/live/1007/10079/master.m3u8
 #EXTINF:-4 group-title="DOCUMENTRY" tvg-logo=" ",NAT GEO HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
 
-
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
-io.com/dare_images/images/Sony_HD.png", Sony HD JTV HD
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV6_1200.m3
-u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
-io.com/dare_images/images/Sony_HD.png", Sony HD JTV FHD
-http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV
-6_4000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
-user-agent="AppleWebKit/JioTV/537.36"
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
-io.com/dare_images/images/Sony_HD.png", Sony HD JTV FHD+
-http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_JSRV
-6_8000.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|
-user-agent="AppleWebKit/JioTV/537.36"
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET HD" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_295/PORTRAIT/c00954c1-
-6eef-4f4e-a388-7904a9191073.png", Sony HD ATV M
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225772/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
-io.com/dare_images/images/Sony_HD.png", Sony HD ATV H
-http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225
-772/05.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
-io.com/dare_images/images/Sony_HD.png", Sony HD ATV L
-http://cshms2.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225
-772/03.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c4d76-4a5f-8c44-ade41206b7df.png", Sony SD ATV M
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c4d76-4a5f-8c44-ade41206b7df.png", Sony SD ATV H
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/05.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SET" tvglogo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c4d76-4a5f-8c44-ade41206b7df.png", Sony SD ATV L
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/03.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SONY SAB HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
-io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD JTV HD
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_JSRV6_
-1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36"
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id="SONY SAB HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j
-io.com/dare_images/images/Sony_SAB_HD.png", Sony SAB HD JTV FHD
-http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB
-_HD_JSRV6_4000.m3u8?
-jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|useragent="AppleWebKit/JioTV/537.36
-
+#EXTINF:-4 group-title="NEWS" tvg-logo=" ",WION
+http://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
