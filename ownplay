@@ -7,8 +7,8 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 #EXTINF:-4 group-title="Maldives" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/210_PSM_News_HD-01.png",PSM NEWS HD
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
-#EXTINF:-4 group-title="Maldives" tvg-logo=" ",Go plus tv HD
-http://203.104.29.53/live/1007/10079/master.m3u8
+#EXTINF:-4 group-title="Maldives" tvg-logo=" ",Raajje tv HD
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@396998/master.m3u8?hdnea=st=1571592938~exp=1571593058~acl=/i/dclive_1@396998*~hmac=9235073550ae1b9c343726a9cb9286124cc3654be6b581a86c7e187cc1d1b917
 
 
 #EXTINF:-4 group-title="DOCUMENTRY" tvg-logo=" ",NAT GEO HD
