@@ -29,13 +29,14 @@ http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac4
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",FOx Sport 1 HD
-https://e7.cdn4.us/ingest666/fs-one.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",FOx 
-https://e7.cdn4.us/ingest666/wnyw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",CBS Sports HQ
-https://e7.cdn4.us/ingest666/cbsshq.m3u8
-
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Australia;Sport",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg" group-title="India;Sport",D Sport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="United States;Sport",EDGEsport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vHYFQYR.png" group-title="United States;Sport",Fox Sports 1
+https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
 
 
 
