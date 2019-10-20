@@ -31,6 +31,8 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",FOx Sport 1 HD
 https://e7.cdn4.us/ingest666/fs-one.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",FOx 
+https://e7.cdn4.us/ingest666/wnyw.m3u8
 
 
 
