@@ -30,6 +30,9 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-4 group-title="ENGLISH MOVIES" tvg-logo=" ",TCM HD
 http://93.158.238.10:8000/Xm2Kp2Oi9u/fgh3K2GhvP/177538
 
+#EXTINF:-4 group-title="SPORTS" tvg-logo=" ",SKy SPorts News
+http://93.158.238.10:8000/Xm2Kp2Oi9u/fgh3K2GhvP/209442
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="NEWS",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
