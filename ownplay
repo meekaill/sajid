@@ -9,8 +9,8 @@ http://w1.viastreaming.net:1935/yestv/live/playlist.m3u8
 http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/playlist.m3u8
 
 
-#EXTINF:-4 group-title="DOCUMENTRY" tvg-logo=" ",NAT GEO HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/02.m3u8
+#EXTINF:-1,VIP US: WWE Network
+http://livegopanel.club:8080/live/11111/22222/10766.m3u8
 
 #EXTINF:-4 group-title="HINDI MOVIES" tvg-logo=" ",kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
