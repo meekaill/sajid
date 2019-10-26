@@ -75,8 +75,8 @@ http://hemn2.xyz:8000/live/8l6tFi9d1i/lzBpgLKGO8/6080.m3u8
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="NEWS",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-4 group-title="NEWS" tvg-logo=" ",WION NEWS
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207411
+#EXTINF:-1,IN: Wion
+http://impulsetv.org:25461/live/Yasser/123456/38691.m3u8
 
 
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS",Fox Sports News
