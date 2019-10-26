@@ -25,6 +25,46 @@ http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac4
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
 
+#EXTINF:-1,*****INDIAN*****
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19655.m3u8
+#EXTINF:-1,IN: Zee Cinema HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19623.m3u8
+#EXTINF:-1,IN: zeecinema
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19622.m3u8
+#EXTINF:-1,IN:  ZEE ACTION
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19638.m3u8
+#EXTINF:-1,IN: ZeeTv HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19621.m3u8
+#EXTINF:-1,IN: Colors
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19650.m3u8
+#EXTINF:-1,IN:  Star Gold
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19647.m3u8
+#EXTINF:-1,IN:  Star Plus-HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19646.m3u8
+#EXTINF:-1,IN: Star Plus UK
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19625.m3u8
+#EXTINF:-1,IN:  TEN1 HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19641.m3u8
+#EXTINF:-1,IN:  zee classic
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19637.m3u8
+#EXTINF:-1,IN: COLORS TV HD ASIA
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19632.m3u8
+#EXTINF:-1,IN: Life OK UK
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19631.m3u8
+#EXTINF:-1,IN: MovieOK
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19630.m3u8
+#EXTINF:-1,IN:  Sony TV HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19648.m3u8
+#EXTINF:-1,IN: SONY SAB ASIA
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19626.m3u8
+#EXTINF:-1,IN:  Star Sports1-HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19645.m3u8
+#EXTINF:-1,IN:  Star Sports2-HD
+http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19644.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="NEWS",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="NEWS",NDTV 24x7
