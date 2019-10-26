@@ -41,6 +41,43 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vHYFQYR.png" group-title="SPORTS",Fox Sports 1
 https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/209442.m3u8
+#EXTINF:-1,UK: Sky Sports Football HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179085.m3u8
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/204171.m3u8
+#EXTINF:-1,UK: Sky Sports Action HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/14981.m3u8
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179526.m3u8
+#EXTINF:-1,UK: BT Sport Box Office PPV (Live During Events Only)
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/208383.m3u8
+#EXTINF:-1,UK: BT Sports 1 HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179086.m3u8
+#EXTINF:-1,UK: BT Sports 2 HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179087.m3u8
+#EXTINF:-1,UK: BT Sports 3 HD
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179088.m3u8
+#EXTINF:-1,UK: BT Sports Europe
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/1299.m3u8
+#EXTINF:-1,UK: BT Sports Extra 1 (Live Match Only)
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179089.m3u8
+#EXTINF:-1,UK: BT Sports Extra 2 (Live Match Only)
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/189262.m3u8
+#EXTINF:-1,UK: BT Sports Extra 3 (Live Match Only)
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/189263.m3u8
+#EXTINF:-1,UK: BT Sports Extra 4 (Live Match Only)
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179092.m3u8
+#EXTINF:-1,UK: BT Sports Extra 5 (Live Match Only)
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/179093.m3u8
+#EXTINF:-1,UK: Eurosport 1
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/14975.m3u8
+#EXTINF:-1,UK: Eurosport 2
+http://93.158.237.11:8000/live/uiMj8oe8k7/4IlkD2gdBZ/14976.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
