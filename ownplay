@@ -61,6 +61,10 @@ http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19626.m3u8
 http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19645.m3u8
 #EXTINF:-1,IN:  Star Sports2-HD
 http://iptv.iptivihd.net:8000/live/xC0CHmauod/a5Dugcgj79/19644.m3u8
+#EXTINF:-1,IN: Ten 1 HD
+http://sl0.ddns.me:8000/live/HLlum4fs5Z/2omBcBFaAb/94444.m3u8
+#EXTINF:-1,IN: Ten 2 HD
+http://sl0.ddns.me:8000/live/HLlum4fs5Z/2omBcBFaAb/94443.m3u8
 
 
 
